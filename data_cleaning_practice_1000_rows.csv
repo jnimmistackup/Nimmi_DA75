@@ -1,0 +1,1001 @@
+Full_Name,Email,Phone,Address,Order_Date,Product,Price,Quantity,Remarks
+Kiran Sharma,user467@example.com,7049074980,Delhi!!!,13-10-2023,Tablet,24066.42,3, !!!
+Anu Sharma,user447@example.com,7270719619,  Chennai  ,26-07-2021,Tablet,20146.55,3,  ok  
+John Singh,user383@example.com,6423819989,Chennai!!!,17-03-2025,Camera,49930.85,3,  urgent  
+Kiran Singh,,9740000478,Delhi!!!,26-11-2025,Headphones,47758.74,9,review!!!
+Kiran Das,user458@example.com,8427877062,  Delhi  ,01-05-2023,Mobile,11560.77,6,deliver fast!!!
+John Singh,user418@example.com,6435595634,Bangalore!!!,24-07-2020,Camera,33774.62,6,  review  
+John Reddy,user460@example.com,7266799164,Bangalore!!!,15-06-2023,Tablet,17247.6,6,deliver fast!!!
+John Singh,user436@example.com,6836752869,Bangalore!!!,17-01-2023,Tablet,46581.16,1,review!!!
+Anu Kumar,user203@example.com,7495527579,Hyderabad!!!,06-03-2020,Mobile,14524.32,7,deliver fast!!!
+John Reddy,user314@example.com,9086472411,  Mumbai  ,17-07-2021,Tablet,24187.77,8,urgent!!!
+Meena Singh,user167@example.com,7123527732,Mumbai!!!,27-02-2023,Headphones,49375.73,10,deliver fast!!!
+Anu Kumar,user351@example.com,7077324801,Mumbai!!!,05-11-2020,Tablet,34520.04,2,ok!!!
+Anu Singh,user83@example.com,,Bangalore!!!,06-01-2024,Laptop,27251.28,5,urgent!!!
+Raj Kumar,user107@example.com,9357994874,Chennai!!!,28-05-2020,Laptop,21241.45,4,urgent!!!
+Raj Reddy,user490@example.com,7409069490,  Chennai  ,10-11-2023,Headphones,24733.57,5,deliver fast!!!
+Kiran Das,user177@example.com,9193873913,Mumbai!!!,07-08-2025,Tablet,40016.91,8,  review  
+Anu Kumar,user6@example.com,6945719496,  Hyderabad  ,25-03-2025,Camera,21273.71,9,  urgent  
+Meena Sharma,user415@example.com,9071547213,  Hyderabad  ,03-06-2020,Laptop,22657.54,5,review!!!
+Raj Reddy,user14@example.com,7968005218,  Hyderabad  ,23-04-2021,Tablet,35211.55,6,urgent!!!
+Raj Sharma,user364@example.com,6555316532,Hyderabad!!!,14-10-2024,Camera,5826.96,9,urgent!!!
+Anu Das,user472@example.com,8744931637,  Hyderabad  ,17-05-2024,Camera,39539.48,6,review!!!
+Raj Das,user275@example.com,,Hyderabad!!!,16-03-2024,Laptop,36533.44,7,  deliver fast  
+John Kumar,user182@example.com,7361760546,  Delhi  ,21-11-2023,Laptop,23516.6,9,  urgent  
+John Das,user377@example.com,7716002687,Hyderabad!!!,24-06-2022,Headphones,2422.17,5,     
+Meena Singh,user436@example.com,7442891031,  Mumbai  ,25-07-2022,Camera,42978.48,3,urgent!!!
+Kiran Sharma,user272@example.com,6451026921,  Bangalore  ,27-06-2024,Tablet,26629.02,7,     
+Kiran Singh,,6793797743,  Delhi  ,13-01-2024,Mobile,9381.68,7,  deliver fast  
+John Sharma,user64@example.com,8584333957,Bangalore!!!,11-11-2025,Tablet,31632.37,2,review!!!
+John Das,user81@example.com,8347527952,  Chennai  ,14-01-2025,Laptop,29747.36,2,urgent!!!
+John Das,user395@example.com,,Mumbai!!!,02-11-2025,Mobile,37628.53,8,review!!!
+Meena Reddy,user98@example.com,8973948938,  Hyderabad  ,25-02-2025,Headphones,22080.84,1,  ok  
+John Singh,,7371781534,  Mumbai  ,13-07-2023,Camera,42716.67,9,  deliver fast  
+Meena Reddy,user55@example.com,9606136582,Hyderabad!!!,28-06-2023,Mobile,13124.97,6,urgent!!!
+Meena Singh,user290@example.com,9798732365,Hyderabad!!!,18-12-2020,Mobile,1784.74,5,review!!!
+Raj Singh,user295@example.com,9770645334,  Hyderabad  ,01-10-2020,Tablet,33117.55,4,urgent!!!
+Kiran Reddy,user178@example.com,7541581290,Bangalore!!!,09-04-2025,Headphones,23316.52,1, !!!
+Kiran Sharma,user69@example.com,6333449484,  Hyderabad  ,04-10-2025,Camera,16789.29,10,  ok  
+Anu Sharma,user185@example.com,,  Hyderabad  ,10-02-2023,Mobile,25696.69,4,  ok  
+Anu Sharma,user397@example.com,,Chennai!!!,03-05-2024,Laptop,46218.25,5,  deliver fast  
+Raj Kumar,user83@example.com,9491836241,  Chennai  ,16-11-2020,Mobile,44053.49,2,deliver fast!!!
+Raj Kumar,user244@example.com,9669424549,Delhi!!!,03-02-2023,Camera,37711.94,1,  deliver fast  
+Raj Kumar,user261@example.com,7340558727,Delhi!!!,11-05-2022,Mobile,3950.83,2,  review  
+Anu Kumar,user27@example.com,7644846083,  Bangalore  ,18-12-2021,Laptop,37459.75,4,deliver fast!!!
+Meena Singh,user357@example.com,8277034436,Delhi!!!,22-09-2021,Headphones,23582,2,urgent!!!
+Anu Singh,user415@example.com,6243470113,Chennai!!!,09-08-2023,Laptop,37657.15,4,deliver fast!!!
+Raj Kumar,user455@example.com,9791697766,Delhi!!!,10-06-2021,Tablet,26408.63,6,     
+John Reddy,user380@example.com,9423562074,Mumbai!!!,09-03-2025,Laptop,12910.9,7,ok!!!
+Kiran Kumar,user190@example.com,6069622324,Hyderabad!!!,17-10-2020,Tablet,6583.21,8,     
+Kiran Singh,user233@example.com,6178382675,  Mumbai  ,17-07-2022,Laptop,4851.46,6,  urgent  
+John Singh,user241@example.com,8153357858,Delhi!!!,09-02-2023,Tablet,15682.86,8,  deliver fast  
+John Das,user248@example.com,,  Mumbai  ,20-10-2021,Mobile,45403.44,5,deliver fast!!!
+Raj Reddy,user167@example.com,9536046255,  Delhi  ,14-10-2021,Laptop,39018.82,3,urgent!!!
+Kiran Reddy,user482@example.com,8722250450,  Bangalore  ,18-02-2023,Headphones,13008.66,10, !!!
+John Sharma,user476@example.com,6035224915,  Hyderabad  ,22-12-2022,Headphones,11477.62,4,  urgent  
+Raj Reddy,user272@example.com,8571069073,  Hyderabad  ,21-06-2022,Camera,23641.1,1,review!!!
+Raj Reddy,user118@example.com,8522072694,Bangalore!!!,25-07-2024,Tablet,27462.36,4,  ok  
+John Reddy,user276@example.com,8070086433,Bangalore!!!,27-06-2021,Laptop,44087.18,7,  ok  
+John Das,user343@example.com,8617339849,Delhi!!!,20-06-2022,Laptop,13649.9,4,ok!!!
+Anu Singh,user142@example.com,9635903170,Mumbai!!!,25-08-2023,Mobile,3286.88,2,review!!!
+Raj Singh,user192@example.com,7306829485,  Bangalore  ,04-07-2023,Laptop,23409.16,6, !!!
+Meena Das,user107@example.com,7812583979,  Bangalore  ,22-04-2023,Laptop,12707.81,1,  ok  
+Meena Kumar,user176@example.com,7925141795,Hyderabad!!!,08-10-2020,Laptop,49645.87,4,deliver fast!!!
+Meena Kumar,user179@example.com,7549657500,Delhi!!!,23-08-2025,Headphones,10841.56,1,urgent!!!
+Anu Kumar,,8628051210,Chennai!!!,08-10-2024,Laptop,40650.16,1,urgent!!!
+Kiran Sharma,user138@example.com,8061001097,Delhi!!!,27-01-2024,Camera,15204.49,6,deliver fast!!!
+Meena Reddy,,7841838885,  Bangalore  ,05-02-2023,Camera,34779.43,2,  urgent  
+Anu Kumar,user426@example.com,7645887651,Delhi!!!,27-08-2021,Laptop,16892.41,10,urgent!!!
+Meena Das,user422@example.com,6863394808,Chennai!!!,06-01-2023,Headphones,2594.07,9,review!!!
+Raj Reddy,,,  Mumbai  ,24-09-2021,Camera,45451.76,8,  ok  
+John Kumar,user8@example.com,6942993304,  Hyderabad  ,17-09-2025,Camera,9166.78,10,  urgent  
+John Das,user182@example.com,,  Bangalore  ,18-06-2021,Laptop,18455.95,6,  ok  
+Raj Das,user326@example.com,6506843676,  Bangalore  ,27-01-2022,Mobile,4119.15,3,ok!!!
+Meena Kumar,user204@example.com,,  Chennai  ,16-08-2022,Mobile,18000.24,8,deliver fast!!!
+Kiran Das,user140@example.com,9865434306,  Chennai  ,06-03-2023,Mobile,7453.74,10,ok!!!
+John Reddy,,,Delhi!!!,10-12-2021,Headphones,26473.86,1,  review  
+John Kumar,user181@example.com,8196483412,Mumbai!!!,20-11-2025,Camera,10231.82,3,  review  
+John Das,user161@example.com,9496846450,  Chennai  ,10-08-2022,Laptop,27323.61,1,  deliver fast  
+John Sharma,user310@example.com,8858079614,  Chennai  ,05-03-2022,Tablet,6343.88,6, !!!
+Raj Das,user94@example.com,8382818474,Mumbai!!!,04-10-2023,Camera,46671.51,1,review!!!
+Raj Das,user407@example.com,7270553300,  Chennai  ,12-08-2023,Mobile,17413.99,10,ok!!!
+John Sharma,user405@example.com,6619954325,  Hyderabad  ,15-04-2022,Camera,14263.11,3,  urgent  
+John Das,user266@example.com,9104912170,  Chennai  ,14-05-2023,Mobile,21393.33,6,  review  
+Anu Das,user407@example.com,8653156509,Bangalore!!!,23-07-2021,Headphones,33972.52,5,  deliver fast  
+Anu Singh,user322@example.com,9023157916,  Mumbai  ,23-04-2024,Mobile,41725.93,8,  ok  
+Raj Singh,user134@example.com,9919578741,Chennai!!!,28-01-2024,Laptop,41564.46,4,deliver fast!!!
+Meena Kumar,user492@example.com,9134004907,Delhi!!!,17-04-2024,Camera,45853.25,9,     
+Raj Sharma,user87@example.com,8386454092,Hyderabad!!!,06-11-2024,Tablet,12416.03,6,urgent!!!
+John Sharma,user488@example.com,9602938483,Mumbai!!!,19-05-2025,Headphones,28928.51,2, !!!
+Meena Kumar,user344@example.com,6693814921,Chennai!!!,19-11-2025,Headphones,1169.07,6, !!!
+Raj Sharma,user36@example.com,6311364247,  Bangalore  ,12-04-2023,Camera,46409.24,2,review!!!
+Anu Sharma,user396@example.com,,Bangalore!!!,21-08-2020,Laptop,42142.06,10,  deliver fast  
+John Das,user204@example.com,7675427780,  Mumbai  ,12-10-2021,Mobile,19500.52,1,review!!!
+Anu Reddy,user2@example.com,8867714194,  Mumbai  ,05-06-2020,Laptop,39837.59,2,deliver fast!!!
+Meena Sharma,user438@example.com,8057532736,  Hyderabad  ,08-05-2020,Laptop,29003.93,5,review!!!
+Raj Kumar,,8634131359,  Mumbai  ,26-10-2023,Mobile,1553.14,6,  deliver fast  
+Kiran Das,,9022894493,  Chennai  ,25-12-2022,Camera,24189.87,6,  deliver fast  
+John Sharma,,6961772192,  Bangalore  ,26-09-2024,Headphones,11545.34,4, !!!
+Kiran Reddy,user179@example.com,6304240684,Mumbai!!!,23-07-2023,Laptop,13171.09,1,  ok  
+Kiran Reddy,user284@example.com,9105403809,  Mumbai  ,24-08-2023,Laptop,11781.77,2,review!!!
+Meena Reddy,user48@example.com,7313038090,  Chennai  ,01-06-2024,Mobile,25677.69,2,  urgent  
+John Singh,,9397138479,Chennai!!!,21-07-2024,Mobile,34076.37,1,     
+Raj Kumar,user318@example.com,9167230198,  Bangalore  ,03-06-2023,Laptop,13440.74,6,  urgent  
+Raj Das,user191@example.com,9573413277,Chennai!!!,03-04-2020,Laptop,13576.83,7,  review  
+Meena Singh,user140@example.com,7122154509,Delhi!!!,20-04-2023,Laptop,26098.74,5,  ok  
+John Kumar,user181@example.com,8049399072,Chennai!!!,13-12-2025,Camera,40715.56,1, !!!
+Meena Kumar,user334@example.com,6146887109,Delhi!!!,17-09-2024,Mobile,41575.95,8,review!!!
+Kiran Kumar,user27@example.com,7411056511,  Hyderabad  ,10-03-2020,Camera,49673.82,8,deliver fast!!!
+Anu Das,user35@example.com,6622975183,Hyderabad!!!,17-03-2024,Headphones,44130.65,3,     
+Raj Singh,user297@example.com,8772816127,  Hyderabad  ,06-03-2024,Tablet,41019.78,7,     
+Meena Das,user246@example.com,6910190054,  Bangalore  ,24-02-2025,Tablet,23136.16,10,     
+John Kumar,user39@example.com,,  Hyderabad  ,20-11-2022,Tablet,31969.74,2,  review  
+John Sharma,user45@example.com,7998892037,  Chennai  ,05-12-2023,Laptop,14235.08,3,  urgent  
+Raj Reddy,user461@example.com,7064973472,  Delhi  ,08-07-2024,Headphones,6201.01,4,ok!!!
+John Das,user239@example.com,6455170559,Bangalore!!!,12-11-2022,Headphones,11829.78,4,  deliver fast  
+Raj Reddy,,8844465617,Bangalore!!!,16-02-2024,Headphones,3765.23,9,  urgent  
+Raj Kumar,user110@example.com,6580068103,Bangalore!!!,07-11-2025,Laptop,4315.38,8,  ok  
+Kiran Reddy,user90@example.com,6683507605,  Bangalore  ,07-04-2024,Mobile,32450.88,9,deliver fast!!!
+Anu Das,,8536995734,  Bangalore  ,10-11-2021,Tablet,18718.28,2,urgent!!!
+Raj Kumar,user189@example.com,8646015838,Hyderabad!!!,05-09-2025,Tablet,31165.62,7,     
+Raj Sharma,user5@example.com,8452640492,Delhi!!!,17-10-2023,Mobile,47172.98,5,review!!!
+Meena Reddy,user373@example.com,8252904790,Chennai!!!,28-11-2022,Headphones,46124.67,2,  ok  
+Meena Singh,user201@example.com,8122411807,  Chennai  ,13-10-2022,Camera,6830.12,2,  review  
+Kiran Sharma,user250@example.com,6869740250,  Hyderabad  ,04-11-2024,Laptop,14375.73,3, !!!
+John Reddy,,9677248372,  Mumbai  ,08-04-2024,Laptop,8387.57,5,deliver fast!!!
+Meena Das,,8335746743,  Chennai  ,24-08-2021,Headphones,32724.1,1,  deliver fast  
+Raj Singh,user439@example.com,6423326964,Delhi!!!,12-01-2020,Laptop,24602.44,7,ok!!!
+Kiran Kumar,user137@example.com,7960257201,Mumbai!!!,26-08-2024,Laptop,9724.41,10,  ok  
+Meena Singh,user108@example.com,6771715403,Mumbai!!!,27-02-2020,Headphones,23395.52,8,deliver fast!!!
+Anu Das,user143@example.com,8101379390,Bangalore!!!,23-08-2021,Laptop,5642,3,     
+Kiran Sharma,user45@example.com,9207886740,  Mumbai  ,18-03-2021,Tablet,10946.16,6,ok!!!
+Kiran Kumar,user381@example.com,9496159339,  Chennai  ,18-10-2021,Camera,20452.08,2,review!!!
+Meena Singh,user93@example.com,7445262788,  Bangalore  ,21-12-2022,Tablet,24168.13,9,  deliver fast  
+Meena Kumar,,6558729880,Bangalore!!!,08-03-2023,Laptop,11761.03,6, !!!
+Meena Sharma,user423@example.com,9432427982,  Bangalore  ,24-07-2021,Tablet,12970.46,2,  deliver fast  
+Raj Reddy,,8906154556,  Mumbai  ,10-10-2020,Mobile,42978.99,7,  deliver fast  
+Raj Sharma,user114@example.com,6189001112,Bangalore!!!,09-07-2021,Tablet,36717.29,8,     
+Anu Singh,user249@example.com,8270504281,  Bangalore  ,18-03-2021,Camera,29312.39,4,review!!!
+Kiran Kumar,user94@example.com,7880640730,  Chennai  ,16-11-2025,Camera,27511.11,6,  deliver fast  
+Kiran Reddy,user13@example.com,,Bangalore!!!,14-04-2022,Laptop,25162.92,10,  review  
+Raj Sharma,user470@example.com,7318616405,Chennai!!!,18-09-2024,Camera,43156.51,6,review!!!
+Kiran Singh,user493@example.com,8982111329,  Bangalore  ,24-05-2025,Mobile,42695.44,7,     
+John Singh,user41@example.com,7379588360,  Mumbai  ,04-12-2022,Camera,14761.78,4,  urgent  
+Anu Sharma,user286@example.com,6320730481,  Hyderabad  ,02-10-2022,Mobile,32295.85,7,  ok  
+Anu Reddy,user28@example.com,,  Delhi  ,11-01-2020,Camera,45236.59,2, !!!
+Kiran Singh,user178@example.com,7935985037,  Chennai  ,17-10-2020,Camera,6988.3,1, !!!
+John Reddy,user252@example.com,,  Delhi  ,07-01-2020,Laptop,27695.69,10,  review  
+Meena Sharma,user403@example.com,6203086711,  Chennai  ,02-01-2022,Camera,42870.39,4,urgent!!!
+Meena Kumar,user33@example.com,8820757913,Hyderabad!!!,14-05-2025,Headphones,17024.28,7, !!!
+Raj Reddy,user169@example.com,9578979735,  Chennai  ,03-09-2021,Headphones,4670.6,4,  ok  
+John Reddy,,6356652473,Hyderabad!!!,20-04-2020,Headphones,18545.35,6,  deliver fast  
+Meena Singh,user433@example.com,9441828297,  Bangalore  ,01-12-2021,Camera,31904.16,7,  urgent  
+Raj Reddy,user248@example.com,7730503360,  Bangalore  ,22-03-2022,Headphones,15332.3,9, !!!
+John Reddy,user182@example.com,6801443743,Chennai!!!,02-02-2024,Tablet,39077.29,10,deliver fast!!!
+Raj Kumar,user205@example.com,6587431514,Bangalore!!!,17-02-2022,Headphones,27249.66,1, !!!
+Kiran Kumar,user70@example.com,,  Mumbai  ,04-03-2023,Headphones,31436.33,3,ok!!!
+Anu Sharma,,6144323476,Hyderabad!!!,10-06-2023,Mobile,4858.8,4,review!!!
+Anu Reddy,user350@example.com,7308224934,Chennai!!!,01-12-2020,Headphones,37288.86,4,  urgent  
+John Sharma,user35@example.com,8928352700,  Bangalore  ,01-09-2024,Headphones,18826.06,6,deliver fast!!!
+Meena Kumar,user95@example.com,8361414725,  Delhi  ,20-06-2021,Laptop,32172.87,9,  urgent  
+Meena Kumar,user463@example.com,6075740337,  Mumbai  ,26-11-2024,Headphones,34339.64,9,  deliver fast  
+Raj Singh,user61@example.com,7372918484,  Chennai  ,11-09-2025,Mobile,40828.09,9,  ok  
+Meena Kumar,user35@example.com,8820800318,  Mumbai  ,05-04-2025,Mobile,14774.61,9,ok!!!
+Raj Kumar,user76@example.com,6945150735,Chennai!!!,17-11-2023,Mobile,4387.78,4,     
+Anu Sharma,user37@example.com,6236464096,  Delhi  ,27-09-2023,Camera,3971.57,10,review!!!
+Kiran Das,user152@example.com,8483741460,  Chennai  ,20-05-2023,Mobile,20873.18,3,  urgent  
+Meena Singh,user180@example.com,,  Chennai  ,21-05-2021,Mobile,39177.71,7,urgent!!!
+Raj Singh,,6830287978,  Chennai  ,18-06-2020,Laptop,9785.42,9, !!!
+Raj Singh,user436@example.com,6526476957,Chennai!!!,10-08-2022,Headphones,16723.41,4,urgent!!!
+John Das,user205@example.com,8911494430,  Hyderabad  ,13-06-2025,Headphones,8144.37,10, !!!
+Anu Sharma,user206@example.com,8124562628,  Delhi  ,16-04-2020,Mobile,34307.36,1,  review  
+John Sharma,,9534476774,Bangalore!!!,05-03-2024,Mobile,23183.98,8,deliver fast!!!
+Anu Sharma,user157@example.com,,Mumbai!!!,07-12-2023,Laptop,4516.79,9,  deliver fast  
+Meena Singh,user190@example.com,6233051170,  Chennai  ,04-08-2021,Headphones,7534.7,9, !!!
+John Kumar,user47@example.com,9134955117,  Delhi  ,18-09-2021,Headphones,28885.64,6, !!!
+John Das,user319@example.com,9228106611,Bangalore!!!,14-11-2023,Tablet,40730.43,9,  ok  
+Kiran Kumar,user270@example.com,6584310370,  Mumbai  ,08-09-2022,Camera,40180.79,3, !!!
+John Singh,user3@example.com,7257800439,  Mumbai  ,05-09-2022,Camera,37791.92,3,deliver fast!!!
+Meena Sharma,user309@example.com,9611118911,  Bangalore  ,01-08-2020,Camera,47915.5,1,  ok  
+John Singh,user417@example.com,6981798428,  Chennai  ,17-03-2022,Camera,13967.65,7,ok!!!
+Anu Das,user222@example.com,9460777625,  Delhi  ,16-07-2025,Mobile,32131.66,2,  urgent  
+Anu Das,user24@example.com,,  Hyderabad  ,18-09-2024,Camera,2662.93,9,urgent!!!
+Meena Reddy,user410@example.com,8858405762,  Bangalore  ,14-09-2020,Tablet,23732.84,3,review!!!
+Anu Kumar,user478@example.com,6941809416,Delhi!!!,27-04-2020,Headphones,49666.68,6,  ok  
+Kiran Singh,user270@example.com,,  Bangalore  ,27-05-2021,Headphones,22839.43,9,  urgent  
+Kiran Das,user247@example.com,7482575726,  Bangalore  ,05-02-2022,Laptop,22121.85,7,ok!!!
+Kiran Singh,user463@example.com,9912723659,  Delhi  ,21-08-2020,Tablet,29168.29,9,review!!!
+John Das,,8581089335,Delhi!!!,24-11-2022,Headphones,21714.9,8,  review  
+Anu Das,user197@example.com,9562774978,Delhi!!!,19-05-2025,Headphones,49720.92,3, !!!
+Anu Das,user115@example.com,6514973179,Hyderabad!!!,13-02-2023,Camera,8689.06,7,urgent!!!
+Kiran Singh,user10@example.com,9870221336,Chennai!!!,12-02-2024,Laptop,40378.55,10,     
+Anu Kumar,,8770197736,  Bangalore  ,17-10-2025,Laptop,13718.11,3,deliver fast!!!
+Meena Sharma,user202@example.com,7911800757,  Chennai  ,27-05-2022,Camera,27741.1,5,     
+Anu Singh,user440@example.com,6131828505,  Chennai  ,18-07-2024,Mobile,30291.52,4,  review  
+Raj Kumar,user137@example.com,,Chennai!!!,12-03-2020,Camera,14328.81,6, !!!
+Anu Kumar,user278@example.com,9995708138,Delhi!!!,07-06-2024,Mobile,11216.02,3,     
+Kiran Kumar,user21@example.com,9947343246,  Chennai  ,03-11-2020,Mobile,20163.51,1,urgent!!!
+John Kumar,,8848526908,  Chennai  ,23-05-2024,Mobile,38713.18,9, !!!
+Anu Reddy,user159@example.com,7528369520,  Hyderabad  ,08-01-2020,Tablet,4517.53,8,  ok  
+Anu Das,,,  Chennai  ,04-06-2022,Mobile,5034.75,2,     
+Raj Singh,user413@example.com,,  Delhi  ,09-11-2020,Headphones,27252.53,8,  deliver fast  
+Raj Singh,user189@example.com,8180311085,Hyderabad!!!,18-02-2025,Camera,4006.79,2,deliver fast!!!
+Meena Sharma,user175@example.com,7112186594,Hyderabad!!!,19-09-2020,Tablet,3459.53,4,review!!!
+Anu Singh,user111@example.com,,  Delhi  ,05-02-2024,Headphones,29957.41,2,  deliver fast  
+Kiran Singh,user16@example.com,,  Delhi  ,27-04-2024,Camera,7374.48,5,  urgent  
+John Kumar,user471@example.com,6591237769,  Bangalore  ,01-09-2022,Laptop,28236.79,2,  review  
+Kiran Reddy,user330@example.com,6798230482,  Hyderabad  ,11-06-2020,Tablet,32063.28,4,     
+John Kumar,user163@example.com,,Delhi!!!,22-07-2020,Tablet,33852.41,7,urgent!!!
+Kiran Kumar,user33@example.com,8077578653,Hyderabad!!!,27-07-2023,Laptop,29704.78,4,  review  
+Raj Singh,user186@example.com,7674126989,Bangalore!!!,28-06-2021,Headphones,41588.61,6,     
+John Reddy,user292@example.com,8252700853,  Hyderabad  ,17-03-2023,Camera,46869.65,1,  review  
+Anu Das,user153@example.com,8488964475,Mumbai!!!,10-02-2024,Headphones,49573.2,6,ok!!!
+Kiran Sharma,user60@example.com,9554726574,Delhi!!!,18-08-2025,Camera,13338.32,8,urgent!!!
+John Singh,user355@example.com,9396603073,  Hyderabad  ,21-11-2022,Laptop,41842.68,2,  deliver fast  
+Anu Sharma,user219@example.com,,  Hyderabad  ,10-01-2021,Tablet,8293.51,4,  urgent  
+Raj Reddy,user179@example.com,7322228983,Hyderabad!!!,15-08-2023,Tablet,4881.62,1,  ok  
+John Sharma,user270@example.com,9698960212,  Chennai  ,18-09-2020,Headphones,12132.73,1,  ok  
+Raj Singh,user393@example.com,7007578228,  Mumbai  ,22-03-2022,Laptop,40759.3,6,ok!!!
+Kiran Singh,user167@example.com,9038235441,  Bangalore  ,24-02-2025,Laptop,43562.91,7,deliver fast!!!
+Raj Das,user434@example.com,9699724854,  Mumbai  ,22-02-2023,Headphones,3534.75,6,  urgent  
+Meena Reddy,user94@example.com,9777511755,Delhi!!!,03-07-2022,Laptop,39695.36,3,urgent!!!
+Anu Singh,user201@example.com,7775694547,Chennai!!!,18-06-2020,Tablet,35853.21,5,review!!!
+John Reddy,user135@example.com,8532280449,  Hyderabad  ,03-05-2021,Mobile,18939.25,2,     
+Raj Singh,user152@example.com,7043253801,  Delhi  ,05-10-2023,Headphones,33204.67,10, !!!
+Kiran Das,user486@example.com,9128698348,Hyderabad!!!,13-11-2023,Headphones,42037.44,4,     
+Anu Das,user316@example.com,6866113955,Bangalore!!!,13-11-2023,Laptop,5825.56,8,urgent!!!
+Meena Das,user50@example.com,8468417483,  Delhi  ,09-01-2021,Tablet,12658.73,9, !!!
+Anu Kumar,,,Delhi!!!,11-05-2024,Headphones,30015.81,6,  ok  
+Meena Sharma,user234@example.com,6568080300,  Hyderabad  ,21-06-2021,Camera,5117.62,6,ok!!!
+Meena Das,user418@example.com,6307522890,  Chennai  ,04-09-2022,Laptop,47764.19,4,urgent!!!
+Kiran Singh,user281@example.com,9761479984,  Bangalore  ,08-07-2022,Mobile,7722.91,2,  review  
+John Sharma,user318@example.com,8807747445,  Delhi  ,06-04-2023,Tablet,37834.1,9,  review  
+Anu Das,user149@example.com,8466798962,  Hyderabad  ,05-09-2025,Tablet,36435.34,8,ok!!!
+Meena Kumar,user1@example.com,9090911672,  Mumbai  ,21-11-2023,Camera,47390.21,5,  review  
+Kiran Reddy,user226@example.com,7929627005,Mumbai!!!,05-08-2020,Headphones,41553.44,4,  urgent  
+Meena Sharma,user168@example.com,,  Hyderabad  ,28-02-2020,Tablet,36909.71,10,ok!!!
+Anu Singh,user402@example.com,6812866072,Mumbai!!!,05-07-2021,Headphones,40698,1,urgent!!!
+Anu Singh,user135@example.com,9885310747,Chennai!!!,15-08-2022,Laptop,9428.54,7, !!!
+Kiran Reddy,user323@example.com,9405458062,Chennai!!!,05-02-2023,Laptop,9526.21,8,  deliver fast  
+Raj Reddy,,8047042364,Mumbai!!!,22-02-2020,Mobile,35618.74,6,  ok  
+Raj Kumar,user197@example.com,9192794982,  Bangalore  ,12-08-2025,Tablet,39009.44,6,urgent!!!
+Kiran Singh,user143@example.com,7155119641,  Bangalore  ,07-02-2022,Laptop,48741.4,8,     
+John Sharma,user107@example.com,,Delhi!!!,27-08-2020,Camera,45624.52,9,urgent!!!
+Kiran Reddy,,,  Delhi  ,10-03-2022,Tablet,12928.08,2,urgent!!!
+Kiran Singh,,6958094718,  Delhi  ,26-06-2024,Mobile,8550.12,9,ok!!!
+Kiran Das,user167@example.com,6547194431,Hyderabad!!!,16-09-2020,Mobile,32526.96,8,  ok  
+John Kumar,user175@example.com,6240761025,Hyderabad!!!,19-03-2020,Laptop,17111.19,8,deliver fast!!!
+Anu Das,user99@example.com,6253810153,Mumbai!!!,06-02-2025,Headphones,1873.04,7, !!!
+Kiran Singh,user34@example.com,,Chennai!!!,15-07-2023,Tablet,18337.39,7,ok!!!
+Meena Das,,8864541386,Hyderabad!!!,02-08-2023,Camera,41521.65,3,  review  
+Raj Sharma,,8298179009,Mumbai!!!,21-04-2020,Tablet,5639.79,3,ok!!!
+Kiran Reddy,user325@example.com,8262893608,  Chennai  ,22-11-2020,Mobile,42758.92,9,  urgent  
+Raj Sharma,user407@example.com,9810074708,Delhi!!!,26-06-2020,Mobile,19673.49,4,review!!!
+Anu Reddy,user489@example.com,,Bangalore!!!,22-11-2021,Mobile,45783.8,8,  deliver fast  
+Raj Kumar,user16@example.com,,  Mumbai  ,15-07-2025,Mobile,7975.11,3,  deliver fast  
+Raj Reddy,user265@example.com,8320147446,Chennai!!!,07-02-2023,Mobile,13430.41,1,  urgent  
+Kiran Das,,8279707021,  Mumbai  ,17-11-2024,Mobile,12449.26,5,  urgent  
+Kiran Reddy,,,Mumbai!!!,06-02-2024,Laptop,43647.7,4,deliver fast!!!
+Kiran Reddy,user371@example.com,7262846736,Bangalore!!!,26-03-2021,Camera,40075.5,9,     
+Raj Reddy,user265@example.com,9605585431,Hyderabad!!!,25-09-2025,Tablet,5627.54,6,  urgent  
+John Kumar,user405@example.com,,  Hyderabad  ,22-03-2022,Tablet,49374.96,2,  review  
+Meena Kumar,user447@example.com,9741652855,Delhi!!!,03-03-2022,Headphones,31877.85,6,  deliver fast  
+Raj Singh,user420@example.com,8813516401,Bangalore!!!,13-03-2025,Camera,39177.36,10,  deliver fast  
+Anu Kumar,user461@example.com,,Chennai!!!,26-12-2021,Camera,41549.6,5,  review  
+John Singh,user473@example.com,9458541157,Chennai!!!,04-04-2022,Headphones,7403.53,4,urgent!!!
+Raj Kumar,user297@example.com,7062472961,Hyderabad!!!,19-05-2020,Laptop,47399.83,7,  deliver fast  
+John Kumar,user337@example.com,9666834617,  Delhi  ,24-11-2022,Mobile,33456.8,5,urgent!!!
+Meena Kumar,user138@example.com,,Delhi!!!,21-06-2025,Mobile,17358.86,9,  urgent  
+John Kumar,user411@example.com,8273659781,  Mumbai  ,26-02-2020,Tablet,25651.02,7, !!!
+John Reddy,user119@example.com,7665303924,Bangalore!!!,03-09-2020,Headphones,28070.18,1,review!!!
+Meena Reddy,user196@example.com,,  Chennai  ,28-04-2020,Headphones,3196.77,1,review!!!
+Anu Sharma,user8@example.com,8565240734,Bangalore!!!,03-08-2025,Tablet,36394.09,9,review!!!
+Anu Reddy,user238@example.com,9998262964,Mumbai!!!,14-11-2024,Mobile,14606.23,8, !!!
+John Singh,user330@example.com,9604510181,  Delhi  ,25-07-2020,Mobile,33933.47,1,ok!!!
+Meena Reddy,user359@example.com,7738678375,  Chennai  ,01-03-2020,Camera,40532.82,4,  deliver fast  
+Meena Singh,user369@example.com,6968386519,  Delhi  ,25-01-2021,Laptop,12533.34,5,  urgent  
+Meena Sharma,user66@example.com,6547078543,Delhi!!!,26-08-2025,Mobile,46231.19,2,  urgent  
+Meena Kumar,,8811308429,Chennai!!!,04-03-2024,Tablet,28770.33,2, !!!
+Raj Singh,user495@example.com,7332797835,Hyderabad!!!,18-07-2024,Tablet,13901.29,10,ok!!!
+Meena Sharma,user86@example.com,9725760116,  Hyderabad  ,05-07-2021,Tablet,21002.21,4, !!!
+Anu Sharma,user106@example.com,8705247468,  Hyderabad  ,18-11-2020,Mobile,32799.16,8,review!!!
+Anu Das,user441@example.com,6478326380,Bangalore!!!,11-10-2023,Mobile,11911.48,7,  review  
+Kiran Sharma,user75@example.com,9725620290,Delhi!!!,28-01-2024,Camera,7319.9,10,review!!!
+Kiran Kumar,user114@example.com,6268266193,  Mumbai  ,25-05-2023,Laptop,21607.12,7, !!!
+Meena Kumar,user380@example.com,6829994031,Delhi!!!,07-09-2024,Mobile,9849.61,9,urgent!!!
+Meena Singh,user410@example.com,6271795492,  Chennai  ,26-07-2021,Camera,34300.15,9, !!!
+Meena Sharma,user138@example.com,6207206681,Bangalore!!!,12-12-2020,Camera,40172.36,4,  ok  
+Anu Singh,user365@example.com,6827206241,Delhi!!!,16-11-2022,Tablet,3519.08,2,review!!!
+Anu Singh,user42@example.com,9772752444,  Hyderabad  ,09-09-2022,Laptop,7836.12,5,  urgent  
+Anu Kumar,user136@example.com,6867274260,  Bangalore  ,20-10-2025,Tablet,46619.69,4, !!!
+Anu Singh,,,Bangalore!!!,15-05-2021,Headphones,45441.21,1,  urgent  
+Meena Sharma,user446@example.com,8277842465,Bangalore!!!,01-01-2023,Tablet,39283.6,1,  ok  
+Kiran Reddy,user349@example.com,9843198337,Mumbai!!!,15-11-2025,Headphones,26790.07,5, !!!
+John Sharma,user215@example.com,9351057642,  Hyderabad  ,21-03-2021,Camera,36546.75,7,     
+Raj Singh,user470@example.com,8825281977,Delhi!!!,11-01-2024,Laptop,48572.08,7,review!!!
+John Das,user429@example.com,8848840613,  Chennai  ,18-05-2025,Tablet,19289.9,9,urgent!!!
+Raj Singh,user418@example.com,9441424058,Bangalore!!!,04-01-2024,Headphones,32194.34,3, !!!
+Kiran Singh,user78@example.com,9436310917,  Delhi  ,05-05-2024,Headphones,11045.63,9,  review  
+Anu Reddy,user391@example.com,6576789799,Bangalore!!!,19-05-2023,Mobile,26859.09,3, !!!
+Meena Singh,user415@example.com,6607985399,  Bangalore  ,16-03-2023,Tablet,18720.1,9,deliver fast!!!
+Anu Das,user18@example.com,9569048574,Delhi!!!,21-01-2025,Tablet,35244.58,10,review!!!
+John Kumar,user221@example.com,8410282250,  Hyderabad  ,05-06-2024,Laptop,1230.17,3,ok!!!
+Meena Kumar,user242@example.com,8570196384,Delhi!!!,10-12-2022,Mobile,18147.06,4,  urgent  
+Kiran Singh,user402@example.com,9091537694,  Mumbai  ,04-10-2020,Camera,21450.75,1,  deliver fast  
+Anu Reddy,user488@example.com,9491080969,Bangalore!!!,14-08-2024,Camera,15346.23,7,review!!!
+Kiran Das,user12@example.com,8755773139,Chennai!!!,03-12-2022,Camera,3323.07,10, !!!
+Anu Das,user23@example.com,8341002578,Bangalore!!!,01-03-2025,Camera,25815.26,6,urgent!!!
+Meena Singh,user377@example.com,8521228806,Delhi!!!,17-04-2025,Tablet,45578.22,3,deliver fast!!!
+Meena Sharma,user357@example.com,6571685082,Delhi!!!,12-06-2023,Laptop,29299.57,9,review!!!
+John Singh,user444@example.com,8466600828,  Hyderabad  ,20-09-2023,Laptop,14676.46,1,ok!!!
+Kiran Reddy,,,Hyderabad!!!,06-10-2020,Headphones,10239.74,8,  ok  
+Raj Kumar,user407@example.com,9889309323,  Bangalore  ,06-03-2021,Camera,12774.1,4,ok!!!
+Meena Reddy,user343@example.com,9597673777,  Hyderabad  ,03-05-2025,Camera,15677.66,9,ok!!!
+Meena Singh,user107@example.com,8621191469,  Mumbai  ,24-01-2021,Mobile,32346.19,2,  urgent  
+Anu Kumar,user483@example.com,,  Bangalore  ,15-09-2024,Mobile,1185.47,7, !!!
+Raj Sharma,user97@example.com,6375683671,Mumbai!!!,13-01-2022,Mobile,23817.76,4,urgent!!!
+John Singh,user444@example.com,8764424545,Hyderabad!!!,11-05-2020,Mobile,13949.34,1, !!!
+Anu Kumar,,8114532611,  Mumbai  ,05-02-2022,Tablet,11818.06,6,  urgent  
+Anu Reddy,,9370423517,Delhi!!!,25-04-2024,Headphones,31895.75,1,  deliver fast  
+Meena Das,user183@example.com,,  Bangalore  ,06-03-2022,Headphones,16145.13,6,ok!!!
+Meena Kumar,user285@example.com,,  Hyderabad  ,10-11-2020,Headphones,9803.56,9,review!!!
+Meena Kumar,user83@example.com,8263138531,  Chennai  ,24-11-2022,Headphones,42790.22,4,urgent!!!
+Meena Das,user314@example.com,9132298963,Chennai!!!,18-01-2025,Camera,43177.9,2, !!!
+Anu Sharma,user226@example.com,8411411950,Hyderabad!!!,08-03-2020,Tablet,48809.98,4,  deliver fast  
+Anu Kumar,user7@example.com,9856036462,Hyderabad!!!,17-06-2020,Mobile,29298.13,4, !!!
+Anu Reddy,user443@example.com,8827379748,Hyderabad!!!,16-09-2020,Tablet,19851.25,1,deliver fast!!!
+Meena Kumar,user216@example.com,6659007755,  Mumbai  ,05-06-2022,Laptop,18453.82,6,review!!!
+Kiran Das,user157@example.com,8984943237,Delhi!!!,24-11-2022,Headphones,47564.14,3,  ok  
+John Singh,user443@example.com,9005943455,  Chennai  ,19-12-2020,Tablet,11446,8,  ok  
+Meena Kumar,,8959758359,  Bangalore  ,02-08-2023,Headphones,20145.09,3,urgent!!!
+Kiran Reddy,user250@example.com,7213543818,Bangalore!!!,06-04-2025,Camera,25246.07,3,  deliver fast  
+Kiran Das,user430@example.com,9557088521,  Mumbai  ,20-02-2023,Tablet,20560.96,6,  review  
+Kiran Reddy,user177@example.com,9862041520,Hyderabad!!!,20-02-2024,Camera,47912.08,9,deliver fast!!!
+Anu Sharma,,9755158877,  Chennai  ,05-02-2020,Camera,4771.52,6,     
+Raj Reddy,user314@example.com,7029315021,  Mumbai  ,21-01-2024,Mobile,5613.34,3,  review  
+Meena Das,user273@example.com,9108592814,  Bangalore  ,15-01-2023,Mobile,21457.63,5,     
+Kiran Das,user236@example.com,8939625625,Delhi!!!,12-03-2020,Camera,18190.94,7,review!!!
+Anu Reddy,user107@example.com,8062517604,  Chennai  ,28-12-2023,Laptop,1096.23,8, !!!
+Raj Reddy,user21@example.com,6319731106,  Mumbai  ,19-12-2023,Tablet,17907.2,2,  deliver fast  
+John Sharma,user90@example.com,6709436448,Bangalore!!!,15-10-2024,Camera,8499.08,5,ok!!!
+Anu Singh,user451@example.com,9820018284,Delhi!!!,07-11-2025,Laptop,1080.38,3, !!!
+John Reddy,user221@example.com,8172527397,Hyderabad!!!,01-05-2024,Headphones,24441.01,6,  deliver fast  
+Anu Kumar,user456@example.com,8301277945,Bangalore!!!,07-02-2024,Tablet,8311.47,9,  deliver fast  
+Kiran Singh,user491@example.com,8486163761,  Chennai  ,24-08-2025,Camera,45131.81,5,  urgent  
+John Kumar,user454@example.com,7032931741,Chennai!!!,22-01-2024,Mobile,19016.79,7,ok!!!
+Meena Singh,user305@example.com,6384316696,  Chennai  ,03-09-2021,Headphones,8911.98,9,  ok  
+Raj Reddy,user257@example.com,7798411264,Mumbai!!!,15-10-2022,Camera,43920.5,3,ok!!!
+Anu Reddy,user237@example.com,7005536031,  Mumbai  ,22-07-2024,Headphones,8657.14,8,review!!!
+Raj Das,user237@example.com,6460990744,  Hyderabad  ,13-02-2022,Tablet,6570.25,9,  ok  
+Anu Das,user165@example.com,6714515625,  Delhi  ,18-08-2021,Tablet,40969.54,4, !!!
+Anu Das,user39@example.com,8864657324,Mumbai!!!,19-10-2021,Camera,10690.42,8,ok!!!
+Raj Kumar,user241@example.com,9177315099,  Delhi  ,06-07-2021,Headphones,26084.65,6,urgent!!!
+Raj Sharma,user424@example.com,7657739086,  Mumbai  ,03-12-2024,Mobile,35024.72,10,urgent!!!
+Anu Sharma,user327@example.com,7486001258,  Bangalore  ,01-09-2023,Headphones,15256.23,2,deliver fast!!!
+Raj Das,user117@example.com,7798184356,Delhi!!!,24-05-2024,Headphones,32919.61,6, !!!
+Raj Kumar,user273@example.com,7376179416,  Chennai  ,13-02-2025,Tablet,41292.02,8,  deliver fast  
+Kiran Kumar,user191@example.com,,  Hyderabad  ,17-03-2024,Camera,27699,6,urgent!!!
+Kiran Singh,user129@example.com,7771827358,Mumbai!!!,02-03-2022,Camera,22188.52,4,  review  
+Raj Singh,user246@example.com,7049674900,Mumbai!!!,12-05-2020,Laptop,10781.57,8,review!!!
+Raj Das,user69@example.com,9103707534,  Chennai  ,15-11-2022,Laptop,10652.5,4,ok!!!
+Anu Das,user200@example.com,,  Delhi  ,04-01-2021,Camera,41077.47,10,ok!!!
+Meena Sharma,user164@example.com,8620660560,  Mumbai  ,08-08-2022,Headphones,12780.88,7,urgent!!!
+Kiran Kumar,user283@example.com,,  Chennai  ,18-04-2023,Tablet,24982.24,7,  deliver fast  
+Kiran Reddy,user190@example.com,9523919444,  Delhi  ,17-06-2022,Tablet,49197.87,3,     
+Kiran Singh,user348@example.com,,Hyderabad!!!,14-05-2021,Tablet,37068.33,1,     
+Meena Kumar,user202@example.com,9842402048,  Delhi  ,10-04-2020,Camera,8722.33,10,ok!!!
+Meena Kumar,,7404623192,Hyderabad!!!,23-06-2020,Tablet,7636.97,6, !!!
+Meena Kumar,user1@example.com,6199310817,  Bangalore  ,18-03-2022,Tablet,38413.21,2, !!!
+Raj Reddy,user463@example.com,8970733602,  Chennai  ,18-03-2021,Camera,5079.67,5,  deliver fast  
+John Kumar,user74@example.com,,Delhi!!!,11-09-2022,Headphones,34825.69,8,  deliver fast  
+Anu Sharma,,9438476735,Bangalore!!!,04-01-2024,Laptop,31086.26,5,deliver fast!!!
+Anu Singh,user267@example.com,7821997008,  Delhi  ,05-09-2022,Headphones,29828.52,4,     
+Meena Sharma,user496@example.com,7656788180,Mumbai!!!,01-03-2020,Tablet,41157.17,10,ok!!!
+Meena Reddy,user222@example.com,8589098546,  Hyderabad  ,03-07-2024,Laptop,8894.93,1,ok!!!
+John Singh,,,Hyderabad!!!,06-03-2021,Mobile,34213.21,1,  deliver fast  
+Anu Das,user283@example.com,8982434571,  Mumbai  ,06-08-2020,Laptop,43101.86,3,     
+Raj Kumar,user327@example.com,7000265736,Delhi!!!,14-11-2021,Tablet,5141.21,9,  review  
+Kiran Sharma,user110@example.com,7657511857,Hyderabad!!!,14-11-2023,Laptop,10742.08,9,urgent!!!
+John Singh,user153@example.com,8895346396,  Delhi  ,26-08-2024,Headphones,29075.42,10,  deliver fast  
+Kiran Sharma,user267@example.com,8241330195,Bangalore!!!,19-05-2022,Tablet,2583.37,1,  urgent  
+John Kumar,,7295710565,  Chennai  ,09-06-2020,Tablet,18098.07,7,  review  
+John Sharma,user449@example.com,9747215617,Chennai!!!,27-11-2020,Headphones,8588.48,2,     
+Kiran Das,user160@example.com,6910316433,Hyderabad!!!,08-05-2020,Mobile,22244.4,5,  deliver fast  
+Anu Kumar,user366@example.com,9437686977,Hyderabad!!!,18-05-2020,Camera,23213.67,9,review!!!
+John Singh,user127@example.com,,Mumbai!!!,18-03-2022,Tablet,33139.87,10,  deliver fast  
+Kiran Das,user369@example.com,8193943358,  Bangalore  ,07-01-2025,Headphones,29376.68,10,     
+Anu Reddy,user282@example.com,7075637718,Delhi!!!,05-03-2020,Tablet,25336.19,3,  urgent  
+Anu Das,user296@example.com,6653803875,Chennai!!!,28-08-2022,Tablet,21528.49,7,  review  
+Kiran Reddy,user468@example.com,,Chennai!!!,27-12-2021,Tablet,28289.3,5,urgent!!!
+Raj Reddy,user46@example.com,6015936674,Hyderabad!!!,15-07-2025,Tablet,22409.99,7,     
+Raj Kumar,,9407723734,  Bangalore  ,21-02-2021,Laptop,49619.46,6,  deliver fast  
+Meena Das,user442@example.com,7198993803,  Hyderabad  ,06-05-2021,Camera,48145.42,8,urgent!!!
+John Das,user312@example.com,,Hyderabad!!!,10-02-2021,Mobile,41895.74,7, !!!
+Raj Sharma,user208@example.com,7333624823,Mumbai!!!,18-12-2022,Laptop,28355.88,2,  ok  
+Kiran Sharma,user132@example.com,6929999428,Delhi!!!,12-09-2022,Mobile,37023.92,8,review!!!
+Raj Kumar,user265@example.com,,Bangalore!!!,18-04-2023,Laptop,41991.63,10,review!!!
+Anu Reddy,user47@example.com,8207033987,  Delhi  ,25-03-2020,Laptop,39331.44,5,  urgent  
+Anu Singh,user19@example.com,9348459526,  Mumbai  ,07-05-2025,Headphones,24335.21,3,  urgent  
+Meena Kumar,user311@example.com,8325617241,  Mumbai  ,17-03-2023,Headphones,33753.28,2,deliver fast!!!
+Raj Sharma,user306@example.com,9686071423,  Chennai  ,14-10-2021,Tablet,42463.37,8,deliver fast!!!
+Anu Sharma,user194@example.com,6985941795,Mumbai!!!,02-03-2021,Headphones,13325.72,3,ok!!!
+Meena Reddy,user109@example.com,8422188492,  Delhi  ,21-05-2024,Laptop,13958.27,10,     
+Raj Das,user83@example.com,7070444420,  Delhi  ,13-08-2023,Camera,43213.69,6,deliver fast!!!
+Meena Das,user486@example.com,,  Bangalore  ,19-08-2022,Tablet,17662.73,4,urgent!!!
+Anu Kumar,user493@example.com,8815771617,Delhi!!!,08-11-2022,Tablet,46077.38,1,     
+John Reddy,user375@example.com,8553091067,  Hyderabad  ,17-07-2021,Camera,10914.05,8, !!!
+Kiran Reddy,user349@example.com,7077082808,Delhi!!!,10-03-2024,Tablet,24192.12,4,  deliver fast  
+Anu Kumar,user260@example.com,8438954081,  Mumbai  ,19-08-2024,Camera,23744.19,7,  urgent  
+Anu Kumar,user61@example.com,7306645565,  Bangalore  ,06-03-2020,Tablet,11982.68,7,urgent!!!
+Meena Kumar,user246@example.com,8001583171,Bangalore!!!,07-12-2025,Laptop,22052.77,10, !!!
+John Das,user187@example.com,7610098317,  Bangalore  ,22-04-2020,Mobile,11707.72,2,     
+John Das,user238@example.com,6335649347,  Hyderabad  ,12-11-2021,Tablet,10291.77,1,urgent!!!
+Kiran Singh,user143@example.com,9383381461,Chennai!!!,28-03-2023,Tablet,9490.64,1, !!!
+Anu Sharma,user58@example.com,9776857796,  Chennai  ,24-11-2020,Laptop,26120.74,1,deliver fast!!!
+Raj Kumar,,9580566502,  Chennai  ,07-08-2021,Camera,15244.36,3,  urgent  
+Meena Reddy,user94@example.com,6327941945,Chennai!!!,10-11-2022,Laptop,38733.2,10,deliver fast!!!
+Anu Sharma,,,Hyderabad!!!,17-06-2024,Mobile,1020.66,5,  ok  
+Meena Kumar,user451@example.com,,  Hyderabad  ,26-08-2022,Camera,9520.51,10, !!!
+John Sharma,user423@example.com,6569674812,  Delhi  ,10-08-2025,Laptop,48610.84,9,  deliver fast  
+Kiran Das,user21@example.com,8513763817,  Delhi  ,13-05-2023,Camera,42159.38,6,review!!!
+Kiran Das,user45@example.com,,  Bangalore  ,23-08-2024,Laptop,29251.92,3,  ok  
+Raj Kumar,user383@example.com,9844408926,Hyderabad!!!,04-01-2022,Tablet,48248.74,8,review!!!
+Kiran Kumar,user377@example.com,,  Mumbai  ,23-07-2022,Camera,14433.79,7,urgent!!!
+Kiran Reddy,user246@example.com,7866104972,  Delhi  ,15-12-2025,Mobile,2040.87,3,  ok  
+Kiran Das,user395@example.com,7308547179,  Mumbai  ,03-04-2024,Camera,49293.54,10,  ok  
+Raj Sharma,user451@example.com,,Bangalore!!!,05-02-2024,Tablet,33388.1,1,deliver fast!!!
+Meena Sharma,user297@example.com,6577971214,  Hyderabad  ,21-02-2020,Mobile,36817.99,1,review!!!
+Meena Das,user304@example.com,7314951100,  Delhi  ,01-07-2020,Mobile,8086.36,7,     
+Raj Das,user423@example.com,9735262090,Bangalore!!!,08-01-2024,Headphones,22970.79,6,  urgent  
+Meena Sharma,user225@example.com,,Bangalore!!!,27-05-2023,Laptop,14713.19,3,  urgent  
+Anu Reddy,user375@example.com,,  Delhi  ,11-01-2020,Headphones,48836.5,8,deliver fast!!!
+Meena Reddy,user22@example.com,8253177648,  Bangalore  ,15-12-2020,Laptop,35138.09,2,     
+Meena Reddy,user444@example.com,,Mumbai!!!,18-06-2025,Camera,2857.12,3,deliver fast!!!
+Anu Singh,user145@example.com,7528691397,  Chennai  ,02-10-2023,Laptop,27821.99,3,  ok  
+Meena Kumar,user433@example.com,,Bangalore!!!,25-08-2023,Camera,22197.56,4,ok!!!
+Kiran Kumar,user442@example.com,6664229761,Bangalore!!!,05-02-2023,Laptop,48284.93,7,  review  
+Anu Singh,user414@example.com,6577473424,  Chennai  ,04-08-2025,Headphones,11936.11,4,  urgent  
+Anu Sharma,user466@example.com,,Chennai!!!,03-01-2021,Camera,26376.49,7,urgent!!!
+Anu Sharma,user139@example.com,9998114890,  Mumbai  ,16-07-2020,Mobile,12519.63,8,urgent!!!
+Raj Singh,user167@example.com,,  Bangalore  ,28-11-2021,Headphones,35690.23,4,  deliver fast  
+John Das,user390@example.com,6172394528,  Chennai  ,13-06-2023,Headphones,1460.68,6,     
+John Singh,user415@example.com,,Bangalore!!!,23-09-2025,Camera,27304.11,6,ok!!!
+Kiran Sharma,user98@example.com,6881187823,  Chennai  ,25-12-2023,Headphones,42565.45,4,  urgent  
+Meena Sharma,user486@example.com,6962337852,  Hyderabad  ,02-06-2024,Headphones,21280.66,8,deliver fast!!!
+John Kumar,,,  Chennai  ,20-06-2025,Camera,48571.68,4,  urgent  
+Anu Reddy,user415@example.com,,Chennai!!!,18-05-2024,Camera,31742.72,6,ok!!!
+Raj Reddy,,8706817239,  Chennai  ,25-04-2025,Camera,26105.46,3,  ok  
+Raj Kumar,user340@example.com,8514412476,Hyderabad!!!,15-09-2025,Headphones,28889.41,5,  urgent  
+Anu Kumar,user415@example.com,8195948976,  Hyderabad  ,13-05-2025,Tablet,44805.65,8,  urgent  
+Raj Singh,,6715653431,Mumbai!!!,09-10-2025,Camera,25184.27,7,  deliver fast  
+Anu Sharma,,7339444120,Delhi!!!,18-06-2021,Laptop,5934.13,3,  ok  
+Anu Kumar,user303@example.com,6723824316,  Bangalore  ,19-06-2022,Laptop,27829.34,10,deliver fast!!!
+John Kumar,user373@example.com,,  Hyderabad  ,21-05-2020,Tablet,49711.85,8, !!!
+Anu Reddy,user176@example.com,6152050277,Delhi!!!,27-06-2022,Tablet,7702,9,  ok  
+Kiran Sharma,user141@example.com,6355022620,  Bangalore  ,03-10-2024,Laptop,11699.41,9,ok!!!
+Meena Reddy,user143@example.com,6751093109,  Hyderabad  ,09-05-2022,Camera,46886.95,4,     
+Raj Reddy,user196@example.com,8965924094,Delhi!!!,02-01-2024,Tablet,40528.11,5,  ok  
+John Singh,user76@example.com,6366125253,  Mumbai  ,22-11-2021,Camera,3073.42,9,ok!!!
+John Sharma,user415@example.com,7309933097,  Chennai  ,13-10-2021,Headphones,9183.64,4,urgent!!!
+Meena Kumar,user187@example.com,8418639639,Chennai!!!,26-11-2024,Laptop,41121.5,3,review!!!
+Raj Reddy,user49@example.com,7032227751,  Hyderabad  ,14-04-2021,Mobile,28469.58,3,     
+Raj Singh,user199@example.com,6025782958,Chennai!!!,18-02-2024,Headphones,31764.49,1, !!!
+John Reddy,user29@example.com,6372791954,Chennai!!!,12-12-2020,Camera,23870.93,10,deliver fast!!!
+Kiran Kumar,user125@example.com,9490778717,  Bangalore  ,04-10-2020,Camera,44944.36,5,deliver fast!!!
+Raj Kumar,user210@example.com,7786249612,  Delhi  ,08-04-2021,Laptop,9784.97,10,  ok  
+Anu Sharma,user289@example.com,8918632369,  Chennai  ,24-08-2023,Camera,42785.01,1,urgent!!!
+Raj Singh,user485@example.com,8585807675,Delhi!!!,02-12-2020,Headphones,33681.67,9,  review  
+Meena Sharma,user257@example.com,7488827646,  Mumbai  ,13-02-2024,Tablet,28182.87,6,     
+Kiran Sharma,user355@example.com,8616920255,  Mumbai  ,18-09-2020,Headphones,2524,5, !!!
+John Kumar,user440@example.com,6279762188,Bangalore!!!,05-04-2020,Tablet,9424.44,2, !!!
+Meena Das,user121@example.com,7825669685,  Mumbai  ,17-01-2022,Headphones,42117.68,10,  ok  
+Meena Das,user488@example.com,7142292284,  Mumbai  ,08-10-2025,Laptop,40126.36,1,     
+Anu Kumar,user115@example.com,9496642613,  Chennai  ,18-11-2022,Headphones,27476.01,1,  review  
+John Singh,user281@example.com,9524432826,  Bangalore  ,06-12-2021,Mobile,1991.73,8, !!!
+John Das,user122@example.com,,Bangalore!!!,09-03-2020,Headphones,31191.12,3,urgent!!!
+Meena Singh,user344@example.com,9426420955,Mumbai!!!,16-07-2024,Tablet,15363.67,7,     
+John Singh,user280@example.com,,  Bangalore  ,22-11-2025,Headphones,41681.55,3,     
+Kiran Reddy,user428@example.com,6948963728,Bangalore!!!,01-11-2023,Tablet,19322.48,4, !!!
+Raj Kumar,user303@example.com,,Hyderabad!!!,23-06-2020,Laptop,29420.86,7,ok!!!
+Raj Singh,,8322307594,  Chennai  ,28-01-2024,Camera,30238.15,1,  review  
+Anu Reddy,user387@example.com,7634482609,Chennai!!!,27-03-2023,Mobile,5898.61,5,  review  
+Kiran Sharma,user151@example.com,8236057629,  Delhi  ,04-05-2021,Laptop,43552.81,10,review!!!
+John Kumar,user229@example.com,8926160863,  Mumbai  ,13-10-2025,Mobile,38901.04,10,deliver fast!!!
+Anu Sharma,user10@example.com,6523720195,  Mumbai  ,15-04-2022,Camera,10269.12,6,deliver fast!!!
+Raj Das,,,  Chennai  ,10-05-2020,Mobile,29926.81,10,  deliver fast  
+Anu Kumar,user43@example.com,,Bangalore!!!,01-04-2021,Laptop,23906.88,3,  deliver fast  
+John Kumar,user27@example.com,6225483731,  Chennai  ,19-02-2020,Laptop,5083.49,6, !!!
+Meena Singh,user235@example.com,9951075366,Bangalore!!!,14-10-2023,Headphones,10978.63,8,     
+John Reddy,user78@example.com,7437471661,  Hyderabad  ,01-01-2022,Headphones,45197.2,5,  review  
+Anu Kumar,user220@example.com,7225672247,  Delhi  ,14-02-2023,Mobile,47428.82,7,  deliver fast  
+Anu Reddy,user225@example.com,8755694664,Chennai!!!,08-11-2020,Camera,38070.24,1, !!!
+Anu Sharma,user299@example.com,8990442722,  Delhi  ,25-10-2021,Laptop,11205.88,5,  urgent  
+Meena Kumar,,7882898908,  Delhi  ,18-01-2022,Headphones,8321.62,10,  ok  
+Meena Das,user119@example.com,7661744637,  Mumbai  ,21-06-2021,Tablet,26206.72,2,deliver fast!!!
+Kiran Kumar,user238@example.com,6847448733,  Mumbai  ,02-08-2020,Mobile,13418.44,4,  review  
+Meena Singh,user11@example.com,8261455834,Hyderabad!!!,04-06-2021,Camera,16392.31,7,ok!!!
+John Singh,user302@example.com,7952565781,  Bangalore  ,07-06-2023,Laptop,18813.42,7,  ok  
+John Sharma,user290@example.com,7322029817,Delhi!!!,18-12-2022,Camera,32453.13,5,  urgent  
+Raj Kumar,user346@example.com,,Bangalore!!!,20-12-2022,Laptop,16647.73,7, !!!
+Meena Reddy,user242@example.com,9554775597,Delhi!!!,09-10-2024,Laptop,12179.4,8,urgent!!!
+Anu Kumar,user127@example.com,6461789032,Delhi!!!,20-08-2020,Camera,7847.87,6,review!!!
+Anu Reddy,user257@example.com,,Bangalore!!!,27-07-2024,Camera,11835.89,4,     
+Meena Kumar,user130@example.com,8733614461,Hyderabad!!!,11-01-2022,Laptop,24434.32,4,     
+Meena Sharma,user383@example.com,7237192182,Hyderabad!!!,13-02-2021,Tablet,3656.3,8,urgent!!!
+Kiran Singh,user122@example.com,8130719319,  Bangalore  ,26-09-2022,Tablet,4121.79,5,deliver fast!!!
+Anu Das,user379@example.com,8196925288,Hyderabad!!!,06-10-2024,Camera,8239.76,10,     
+Kiran Singh,user492@example.com,,Delhi!!!,16-08-2022,Laptop,32364.09,9, !!!
+Kiran Sharma,,8306529930,Chennai!!!,15-07-2023,Tablet,14848.4,6, !!!
+John Kumar,user103@example.com,9589838284,Delhi!!!,15-04-2020,Laptop,24196.15,10,deliver fast!!!
+Anu Kumar,user108@example.com,9282881849,  Hyderabad  ,09-06-2023,Mobile,23630.7,5,deliver fast!!!
+Raj Sharma,,8679235120,  Chennai  ,14-04-2023,Laptop,44966.77,3,ok!!!
+John Reddy,user346@example.com,8571541511,Mumbai!!!,17-02-2020,Tablet,17514.87,2,deliver fast!!!
+John Singh,user314@example.com,9715949927,  Mumbai  ,13-11-2025,Laptop,5588.55,9,  deliver fast  
+John Das,user340@example.com,,  Chennai  ,17-12-2023,Headphones,20559.46,2,  deliver fast  
+Anu Sharma,user488@example.com,9621504240,  Bangalore  ,02-01-2022,Laptop,35758.22,6, !!!
+Kiran Kumar,user467@example.com,9435162774,Delhi!!!,09-03-2021,Camera,11468.4,3,  review  
+Anu Reddy,user366@example.com,7503795734,Chennai!!!,08-02-2020,Headphones,1485.82,8,  review  
+Meena Sharma,user395@example.com,8215401802,Mumbai!!!,17-07-2022,Headphones,44644.61,3,ok!!!
+Kiran Sharma,user439@example.com,,Delhi!!!,06-07-2020,Headphones,45732.14,10,  deliver fast  
+Anu Kumar,user63@example.com,7261234825,Mumbai!!!,06-01-2025,Tablet,11041.82,1,urgent!!!
+Anu Das,,,  Chennai  ,19-08-2023,Camera,21597.01,1,review!!!
+Anu Reddy,user53@example.com,6391780618,Chennai!!!,16-08-2020,Tablet,27374.11,8,ok!!!
+Anu Singh,user125@example.com,8762159009,  Delhi  ,09-05-2021,Laptop,4225.21,1,review!!!
+Raj Kumar,user485@example.com,6130377731,  Bangalore  ,06-11-2020,Laptop,44932.41,2,  ok  
+Raj Reddy,user81@example.com,,Bangalore!!!,15-07-2021,Camera,23117.54,7, !!!
+Raj Kumar,user265@example.com,9583782982,Bangalore!!!,10-08-2021,Mobile,23821.73,4,  review  
+John Kumar,user297@example.com,9452153069,  Delhi  ,23-10-2024,Headphones,22245.51,9,  ok  
+Meena Kumar,,7655183748,  Hyderabad  ,15-05-2022,Laptop,20116.69,7,  ok  
+John Kumar,user340@example.com,8975031038,  Mumbai  ,21-09-2023,Camera,26664.18,3,     
+Meena Reddy,user474@example.com,9094860102,Hyderabad!!!,28-04-2023,Mobile,21014.95,1,  urgent  
+Kiran Kumar,user483@example.com,8217027335,  Chennai  ,22-02-2022,Headphones,31233.66,7, !!!
+Kiran Reddy,user359@example.com,9990965323,  Delhi  ,12-03-2020,Camera,11316.39,1,     
+Raj Das,user218@example.com,7270546650,Mumbai!!!,06-04-2025,Headphones,13407.97,7,  ok  
+Kiran Sharma,user491@example.com,,  Mumbai  ,09-09-2021,Headphones,27762.88,5,review!!!
+John Reddy,user399@example.com,9951937277,  Chennai  ,28-03-2025,Camera,8412.49,2,review!!!
+Anu Sharma,user350@example.com,6424635171,  Delhi  ,23-02-2025,Tablet,26280.77,7,  review  
+Meena Kumar,user295@example.com,7295774127,Bangalore!!!,05-10-2025,Mobile,32377.02,6,     
+Anu Kumar,user349@example.com,6273509649,Delhi!!!,06-02-2022,Camera,28161.94,10,review!!!
+Meena Das,user84@example.com,7408514116,Mumbai!!!,22-03-2025,Tablet,22145.07,3,  deliver fast  
+Meena Reddy,user337@example.com,6507977124,  Delhi  ,04-11-2021,Laptop,12762.18,9,  review  
+Anu Das,user279@example.com,6674603493,Mumbai!!!,26-04-2025,Headphones,28206.35,2,  urgent  
+John Das,user481@example.com,8836348840,  Bangalore  ,13-09-2021,Camera,48047.56,3,  deliver fast  
+John Kumar,user193@example.com,9668876014,Delhi!!!,16-04-2021,Laptop,35819.25,4,deliver fast!!!
+Meena Sharma,user491@example.com,6040739224,  Chennai  ,09-03-2022,Mobile,44444.54,8,  review  
+Kiran Singh,user492@example.com,8980993504,Hyderabad!!!,13-11-2021,Tablet,4782.84,1,  urgent  
+Raj Sharma,,6878648724,Hyderabad!!!,24-11-2022,Laptop,45039.85,8,     
+Kiran Sharma,user198@example.com,8888457994,  Hyderabad  ,13-03-2025,Mobile,24370.96,1,  review  
+Kiran Sharma,user383@example.com,8204471976,  Hyderabad  ,15-06-2023,Laptop,5076.81,10,  deliver fast  
+Kiran Kumar,user345@example.com,8126641107,Delhi!!!,12-06-2021,Mobile,3083.3,6,  review  
+John Reddy,,8374167109,Bangalore!!!,02-11-2024,Headphones,20062.89,4,  ok  
+Meena Das,user108@example.com,,  Mumbai  ,28-09-2024,Camera,35696.85,10,  deliver fast  
+Kiran Sharma,,6456779538,  Delhi  ,14-12-2022,Tablet,18119.68,1,  ok  
+Meena Kumar,user257@example.com,,Chennai!!!,01-07-2023,Camera,32805.1,3,review!!!
+Raj Sharma,user23@example.com,7532956202,  Chennai  ,02-03-2023,Headphones,17169.94,8,ok!!!
+Raj Sharma,user493@example.com,6825570525,Delhi!!!,01-09-2025,Tablet,43008.37,9,  deliver fast  
+Meena Reddy,user246@example.com,9896035331,Chennai!!!,05-06-2021,Camera,44893.28,3,urgent!!!
+Anu Das,user367@example.com,,  Bangalore  ,07-11-2020,Headphones,37274.41,2,deliver fast!!!
+Anu Kumar,user40@example.com,7250811219,Hyderabad!!!,15-10-2022,Laptop,43990.7,7,ok!!!
+Anu Das,user240@example.com,,Chennai!!!,01-02-2023,Camera,28351.96,2,review!!!
+Raj Das,user277@example.com,9429921785,  Hyderabad  ,24-09-2020,Tablet,37225.34,10,review!!!
+Kiran Kumar,user57@example.com,9925104930,  Mumbai  ,22-05-2023,Camera,42577.76,6,ok!!!
+Meena Kumar,user331@example.com,9056830671,  Chennai  ,17-04-2021,Laptop,43348.69,1, !!!
+Kiran Sharma,user397@example.com,9254324486,Bangalore!!!,18-11-2022,Laptop,40456.8,2,urgent!!!
+Raj Sharma,user494@example.com,6735181305,  Mumbai  ,17-11-2023,Laptop,48709.18,7,  ok  
+Meena Sharma,user102@example.com,6843121268,Delhi!!!,22-02-2021,Tablet,18720.09,8, !!!
+Kiran Sharma,user69@example.com,8950546302,Bangalore!!!,26-02-2023,Headphones,19535.4,10,urgent!!!
+John Sharma,user156@example.com,9532742396,Delhi!!!,16-03-2024,Laptop,39649.74,1,urgent!!!
+Raj Kumar,,6529990243,Chennai!!!,08-02-2025,Camera,34344.11,8,deliver fast!!!
+John Reddy,,8364911499,Chennai!!!,11-01-2023,Tablet,17380.6,3,urgent!!!
+Raj Sharma,,7249696126,  Chennai  ,05-10-2022,Laptop,3989.37,1,  ok  
+John Sharma,,,  Chennai  ,03-10-2021,Laptop,35533.44,9,urgent!!!
+Kiran Singh,,9947783139,  Delhi  ,25-03-2022,Tablet,34187.45,3,review!!!
+Meena Sharma,user124@example.com,7445176737,  Delhi  ,06-05-2024,Laptop,42156.37,2,  review  
+John Sharma,user335@example.com,7783975417,  Mumbai  ,18-11-2020,Tablet,3421.02,2,  deliver fast  
+Anu Das,user291@example.com,8686955116,Chennai!!!,13-05-2020,Tablet,20326.86,1,review!!!
+John Das,user459@example.com,9832366380,Delhi!!!,18-02-2023,Mobile,11220.78,1,  review  
+Raj Kumar,user353@example.com,7324957775,  Delhi  ,15-09-2022,Laptop,3064.31,1, !!!
+Anu Sharma,user328@example.com,9480569269,  Bangalore  ,11-10-2023,Tablet,12510.95,10,  urgent  
+John Kumar,user76@example.com,8545186364,  Mumbai  ,25-12-2022,Camera,12681.28,5,  deliver fast  
+Kiran Kumar,user339@example.com,,  Chennai  ,21-09-2025,Mobile,36916.41,6,     
+John Singh,user140@example.com,9468802412,  Delhi  ,28-01-2022,Tablet,16225.08,5,  urgent  
+Meena Das,user408@example.com,7133202863,Chennai!!!,04-04-2024,Headphones,22746.51,8,ok!!!
+Kiran Das,user52@example.com,6800022073,Mumbai!!!,18-11-2025,Camera,36731.81,8,urgent!!!
+Kiran Sharma,user463@example.com,7322080514,Mumbai!!!,22-10-2023,Tablet,6359.64,10,  urgent  
+Meena Reddy,user261@example.com,6448315426,Mumbai!!!,26-11-2025,Headphones,1025.61,10, !!!
+Kiran Das,user289@example.com,6363914244,Bangalore!!!,21-07-2021,Laptop,10106.9,1,  review  
+Raj Kumar,user184@example.com,,  Mumbai  ,24-11-2024,Headphones,17944.19,1,     
+Kiran Das,user487@example.com,8591637203,  Chennai  ,16-04-2024,Headphones,11052.91,9,review!!!
+Kiran Kumar,user433@example.com,9376063665,Delhi!!!,04-02-2022,Mobile,34652.91,2,  deliver fast  
+Kiran Das,user499@example.com,6674372192,Hyderabad!!!,06-09-2025,Laptop,40525.42,2,  urgent  
+Kiran Das,user250@example.com,7510552046,  Mumbai  ,24-12-2025,Laptop,21130.95,7,urgent!!!
+Anu Singh,user364@example.com,9492003549,  Hyderabad  ,15-02-2025,Laptop,12459.16,2,  urgent  
+Meena Kumar,user150@example.com,8074835124,Chennai!!!,14-04-2025,Camera,30367.38,1,  urgent  
+Kiran Singh,user468@example.com,,Mumbai!!!,16-01-2021,Mobile,6117.15,7,  review  
+Meena Sharma,user110@example.com,7909265533,Chennai!!!,06-09-2023,Tablet,36809.19,7, !!!
+Anu Singh,user234@example.com,7109421944,  Chennai  ,07-03-2024,Mobile,46705.67,6,     
+Meena Das,user34@example.com,9606061144,  Chennai  ,05-01-2024,Headphones,22675.11,4, !!!
+Raj Singh,user335@example.com,9353068260,Mumbai!!!,23-01-2022,Headphones,15539.86,6,  review  
+Anu Singh,user206@example.com,6246829719,Mumbai!!!,05-04-2025,Mobile,19303.44,2,urgent!!!
+John Das,user184@example.com,7158726063,  Bangalore  ,24-11-2024,Mobile,1778.16,5,deliver fast!!!
+Anu Reddy,,,  Bangalore  ,08-11-2025,Tablet,10916.11,1,  review  
+Raj Kumar,,7516503798,Bangalore!!!,21-07-2023,Tablet,15545.15,4,  urgent  
+John Sharma,user380@example.com,6176974038,  Hyderabad  ,18-11-2022,Headphones,4681.72,9,     
+Meena Sharma,user157@example.com,,  Delhi  ,27-02-2020,Tablet,24313.49,7, !!!
+Meena Sharma,user101@example.com,8194455784,  Delhi  ,23-06-2023,Camera,25513.42,4,review!!!
+Kiran Singh,user35@example.com,9099817781,Delhi!!!,16-09-2024,Laptop,35612.92,3, !!!
+Meena Das,user48@example.com,7074624308,Chennai!!!,07-12-2024,Laptop,40902.05,1,urgent!!!
+Raj Sharma,user392@example.com,8411410754,  Chennai  ,28-07-2022,Tablet,37871.84,5,  deliver fast  
+Raj Das,user38@example.com,7397907887,Chennai!!!,17-04-2025,Mobile,5115.14,7, !!!
+Anu Sharma,user221@example.com,9885998371,  Hyderabad  ,15-08-2022,Mobile,31631.4,2,     
+Anu Kumar,user478@example.com,9428256538,Hyderabad!!!,13-03-2021,Laptop,45505.45,8,  deliver fast  
+Meena Das,user124@example.com,7819903282,Chennai!!!,20-03-2021,Mobile,22510.07,5,urgent!!!
+Kiran Kumar,user176@example.com,7577193074,Mumbai!!!,04-05-2022,Camera,42667.41,8,     
+Raj Reddy,user132@example.com,9418711968,Hyderabad!!!,18-04-2023,Tablet,22443.82,4,deliver fast!!!
+John Kumar,user477@example.com,9048867344,Delhi!!!,24-08-2022,Tablet,29339.54,3,deliver fast!!!
+John Kumar,user25@example.com,7314302489,  Mumbai  ,08-06-2024,Tablet,31384.08,8,urgent!!!
+Kiran Singh,user314@example.com,7297391140,  Hyderabad  ,15-03-2023,Headphones,26739.08,9,     
+Anu Sharma,user213@example.com,9468744733,  Mumbai  ,20-07-2023,Camera,13375.48,1, !!!
+Anu Das,user137@example.com,9749618490,  Delhi  ,28-07-2025,Laptop,15849.07,2,deliver fast!!!
+Kiran Reddy,user197@example.com,7121501290,  Mumbai  ,27-05-2021,Camera,47633.29,10,urgent!!!
+Raj Reddy,,9353982566,  Mumbai  ,26-04-2022,Mobile,12861.61,8,  deliver fast  
+Kiran Singh,user481@example.com,6916508660,  Hyderabad  ,18-12-2020,Laptop,39061.9,6,  review  
+Meena Das,,,  Delhi  ,16-05-2022,Laptop,13448.89,5,  review  
+John Kumar,user263@example.com,6651485557,  Chennai  ,19-04-2022,Camera,16889.88,4,review!!!
+Anu Singh,user411@example.com,7701990332,Delhi!!!,03-12-2025,Headphones,42503.42,1,  ok  
+John Das,,,  Bangalore  ,04-09-2024,Camera,29651.43,9,  ok  
+John Kumar,user485@example.com,9533114898,Chennai!!!,02-07-2022,Laptop,40359.23,7,urgent!!!
+John Reddy,,9584246016,  Chennai  ,04-10-2024,Camera,3612.28,6,review!!!
+Raj Reddy,user437@example.com,8821448528,Mumbai!!!,20-06-2020,Headphones,17085.2,6, !!!
+Kiran Kumar,,9919600526,Chennai!!!,02-12-2024,Camera,43952.66,2,  ok  
+Meena Das,user44@example.com,9733273209,  Mumbai  ,28-06-2020,Mobile,7439.85,2, !!!
+Meena Sharma,user176@example.com,9609065671,  Chennai  ,18-12-2025,Tablet,32272.91,2,urgent!!!
+Meena Reddy,user88@example.com,8941046383,  Hyderabad  ,20-05-2021,Mobile,36311.47,5,  review  
+Kiran Kumar,user373@example.com,6425433460,  Hyderabad  ,12-09-2022,Tablet,4997.41,4,  urgent  
+Raj Kumar,user237@example.com,8997252353,  Bangalore  ,28-05-2021,Headphones,40847.35,9,deliver fast!!!
+Anu Das,user395@example.com,8172695444,Bangalore!!!,25-08-2025,Tablet,27195.62,5,  urgent  
+Meena Singh,user17@example.com,7070615269,Delhi!!!,24-11-2021,Laptop,34515.62,7,ok!!!
+Raj Singh,user299@example.com,6744776325,  Mumbai  ,27-06-2020,Tablet,20925.22,8, !!!
+Anu Reddy,user138@example.com,7147381093,  Bangalore  ,05-09-2023,Tablet,47266.39,4,  ok  
+Meena Reddy,,,Chennai!!!,22-08-2025,Mobile,15307.13,8,     
+John Singh,user15@example.com,7456582765,Hyderabad!!!,19-01-2021,Tablet,31405.11,1,  deliver fast  
+Kiran Reddy,user459@example.com,9460032769,Chennai!!!,28-11-2020,Mobile,11735.94,7,ok!!!
+Raj Reddy,user418@example.com,7343480825,Delhi!!!,09-06-2022,Camera,35136.82,5,     
+Raj Sharma,user174@example.com,,  Hyderabad  ,03-05-2021,Tablet,28397.96,4, !!!
+Anu Kumar,user364@example.com,7954395223,Delhi!!!,10-11-2022,Tablet,28524.65,7,  deliver fast  
+John Sharma,user71@example.com,,Bangalore!!!,13-04-2021,Mobile,12991.91,1,review!!!
+Meena Das,user329@example.com,7278125105,Mumbai!!!,09-03-2023,Laptop,42689.14,2,ok!!!
+Meena Kumar,user38@example.com,,  Bangalore  ,24-10-2021,Mobile,36560.88,4,  review  
+Meena Das,user126@example.com,8049919351,Chennai!!!,19-06-2021,Headphones,29350.83,5,deliver fast!!!
+Raj Das,user411@example.com,6639988593,Chennai!!!,06-11-2021,Tablet,2743.62,9,review!!!
+John Singh,user463@example.com,6310226038,Mumbai!!!,26-09-2021,Laptop,34469.64,1, !!!
+John Sharma,user283@example.com,7900490680,  Chennai  ,19-12-2022,Camera,24964.36,2,     
+Anu Sharma,user398@example.com,,  Hyderabad  ,19-03-2024,Tablet,36598.74,4,  review  
+Meena Singh,user431@example.com,9279838261,Mumbai!!!,22-04-2025,Headphones,46522.18,10,  ok  
+John Kumar,user247@example.com,7845531864,Hyderabad!!!,02-09-2020,Camera,5271.05,10,  deliver fast  
+Anu Kumar,,,  Delhi  ,03-11-2025,Mobile,21397.76,2,  urgent  
+Raj Das,user144@example.com,6841556956,Delhi!!!,02-09-2022,Camera,44965.83,8,urgent!!!
+Raj Kumar,user177@example.com,,  Hyderabad  ,18-02-2024,Laptop,30484.39,6,  review  
+Anu Kumar,,9410838531,  Bangalore  ,22-08-2022,Camera,8960.61,6,  urgent  
+John Reddy,user239@example.com,,Chennai!!!,08-06-2024,Mobile,34478.18,5, !!!
+Kiran Das,user172@example.com,,Bangalore!!!,27-01-2022,Camera,26163.3,4, !!!
+Meena Singh,user84@example.com,,  Bangalore  ,15-09-2022,Camera,8982.33,4,     
+Kiran Sharma,user442@example.com,8507516226,  Chennai  ,28-01-2023,Headphones,49067.21,5, !!!
+Raj Reddy,user72@example.com,,Chennai!!!,03-11-2020,Laptop,44644.84,9,deliver fast!!!
+Raj Singh,user226@example.com,8388982584,  Bangalore  ,09-07-2021,Tablet,46192.83,10, !!!
+Meena Sharma,user426@example.com,7775355270,  Chennai  ,14-12-2022,Laptop,36864.91,2,  ok  
+Meena Kumar,user453@example.com,7571472180,Bangalore!!!,23-07-2021,Laptop,27835.9,8,urgent!!!
+Anu Sharma,user13@example.com,,Mumbai!!!,20-01-2025,Camera,40969.5,2,  deliver fast  
+Raj Singh,user26@example.com,7629540133,  Mumbai  ,12-04-2022,Camera,49917.43,9,urgent!!!
+Kiran Singh,user60@example.com,8868117293,  Bangalore  ,22-03-2022,Camera,10227.27,7, !!!
+John Kumar,user17@example.com,7308530652,  Bangalore  ,07-12-2025,Tablet,6820.76,10, !!!
+Anu Sharma,user373@example.com,7946813934,Delhi!!!,01-07-2020,Headphones,16268.07,6,ok!!!
+John Kumar,user235@example.com,,Chennai!!!,18-04-2020,Mobile,29895.55,8,  ok  
+Anu Das,user155@example.com,9568425348,  Delhi  ,11-10-2022,Headphones,33576.38,8, !!!
+Raj Kumar,user330@example.com,,Bangalore!!!,12-08-2022,Camera,40685.55,2,  deliver fast  
+Raj Das,user89@example.com,9490532302,  Hyderabad  ,26-07-2024,Headphones,15649.54,10,review!!!
+Meena Das,user467@example.com,6899099217,  Hyderabad  ,20-01-2020,Laptop,26069.63,3,review!!!
+Anu Singh,user316@example.com,8156287253,Hyderabad!!!,19-04-2024,Camera,43491.92,6,deliver fast!!!
+Raj Kumar,user164@example.com,9478232861,  Bangalore  ,27-01-2022,Headphones,16046.06,10,review!!!
+Anu Reddy,,8779045026,Mumbai!!!,05-03-2025,Headphones,10063.44,8,  deliver fast  
+Raj Das,user340@example.com,9587171637,Bangalore!!!,13-12-2022,Camera,36819.68,1,  deliver fast  
+Raj Das,user85@example.com,,  Delhi  ,02-07-2021,Mobile,29069.02,9,  ok  
+Kiran Kumar,user382@example.com,7950540278,  Chennai  ,05-03-2024,Laptop,34564.96,8,urgent!!!
+John Kumar,user277@example.com,7316377236,Hyderabad!!!,10-04-2023,Headphones,13394.84,4,deliver fast!!!
+Meena Reddy,user474@example.com,9271975216,  Hyderabad  ,11-10-2023,Tablet,17617.99,9,  review  
+Meena Das,user225@example.com,7911629234,  Delhi  ,03-01-2024,Camera,47968.11,6,  urgent  
+Raj Das,user389@example.com,6056881180,  Bangalore  ,09-10-2023,Laptop,46718.22,5,  ok  
+Raj Kumar,user8@example.com,8853953708,Bangalore!!!,21-05-2021,Tablet,1405.9,1,  deliver fast  
+Meena Singh,user264@example.com,8619965389,Bangalore!!!,27-05-2025,Mobile,10491.76,6,  urgent  
+Meena Reddy,user99@example.com,,  Mumbai  ,05-08-2022,Laptop,41441.11,9,  ok  
+Raj Kumar,,7310729667,Hyderabad!!!,28-09-2025,Laptop,35811.29,5,  urgent  
+Kiran Sharma,user153@example.com,,  Hyderabad  ,22-09-2022,Mobile,29875.43,3,urgent!!!
+Raj Das,user399@example.com,7145508394,  Bangalore  ,20-02-2023,Mobile,36374.66,1,  urgent  
+John Singh,user423@example.com,,  Chennai  ,16-01-2023,Mobile,39911.25,3,     
+Anu Kumar,user59@example.com,9789720393,Hyderabad!!!,08-07-2021,Mobile,37786.03,6, !!!
+John Reddy,user471@example.com,6059710295,Delhi!!!,01-03-2023,Laptop,8189.98,7, !!!
+John Reddy,user262@example.com,6516612781,  Chennai  ,25-11-2023,Mobile,47414.53,8,urgent!!!
+Anu Kumar,user146@example.com,7894783126,  Delhi  ,26-08-2025,Mobile,38853.83,8,  review  
+John Das,user247@example.com,8749648948,Bangalore!!!,10-09-2024,Camera,21127.45,4,deliver fast!!!
+Kiran Das,user5@example.com,7805611491,Hyderabad!!!,16-10-2024,Laptop,38654.04,10,review!!!
+Anu Kumar,,8964569930,  Delhi  ,03-04-2023,Headphones,26276.89,9,deliver fast!!!
+Anu Reddy,user165@example.com,7458132539,  Delhi  ,28-03-2024,Laptop,15367.66,5,ok!!!
+Meena Reddy,user221@example.com,7874216323,  Chennai  ,19-05-2022,Tablet,14737.46,2,     
+Meena Sharma,user160@example.com,,Delhi!!!,21-01-2020,Mobile,36565.68,10,review!!!
+Kiran Reddy,user80@example.com,9022278683,  Mumbai  ,10-10-2024,Camera,27836.43,4,ok!!!
+Meena Sharma,user420@example.com,9922702389,Hyderabad!!!,12-04-2023,Headphones,4007.12,8,ok!!!
+Raj Sharma,user416@example.com,8372271739,  Delhi  ,14-02-2025,Laptop,31896.24,5,deliver fast!!!
+Raj Kumar,user4@example.com,7776146323,  Mumbai  ,16-07-2022,Headphones,8495.52,4, !!!
+Kiran Singh,user206@example.com,7527950474,  Hyderabad  ,12-06-2025,Mobile,31281.35,1,  ok  
+John Kumar,user313@example.com,6817734771,  Hyderabad  ,28-03-2025,Mobile,16453.77,3,     
+Anu Singh,user295@example.com,6923017227,Chennai!!!,02-10-2024,Laptop,15387.11,7,urgent!!!
+Meena Reddy,user470@example.com,9364261204,Bangalore!!!,25-06-2022,Headphones,45318.81,5,     
+Anu Sharma,user159@example.com,9724202626,Hyderabad!!!,09-09-2022,Headphones,16793.37,8,     
+John Sharma,user113@example.com,8347400688,Delhi!!!,14-03-2023,Headphones,20764.06,5,ok!!!
+Meena Sharma,user340@example.com,9385814345,Delhi!!!,11-11-2023,Laptop,44748.28,7,  review  
+Raj Sharma,,6695495375,Hyderabad!!!,19-06-2022,Camera,29081.8,4,  review  
+Anu Sharma,user272@example.com,8770438439,Hyderabad!!!,15-07-2022,Laptop,33183.99,10,urgent!!!
+Anu Das,user395@example.com,8614100967,  Hyderabad  ,20-08-2021,Laptop,12340.57,5,  urgent  
+John Das,user259@example.com,8873294215,Chennai!!!,12-10-2020,Tablet,10073.64,4, !!!
+Anu Singh,user228@example.com,,Hyderabad!!!,25-03-2022,Mobile,47367.96,5,  deliver fast  
+Meena Singh,user281@example.com,,Chennai!!!,16-02-2025,Mobile,5990.27,8,  review  
+Meena Kumar,user131@example.com,,  Delhi  ,20-10-2025,Headphones,19327.23,6,  review  
+Kiran Singh,user9@example.com,,Bangalore!!!,03-08-2023,Tablet,8005.91,3,deliver fast!!!
+Raj Reddy,user57@example.com,,  Chennai  ,14-07-2022,Headphones,37714.63,6,review!!!
+Kiran Kumar,user151@example.com,9598870803,  Mumbai  ,03-08-2021,Laptop,49039.02,9,deliver fast!!!
+Anu Kumar,user223@example.com,6871215066,Mumbai!!!,20-05-2020,Tablet,45471.77,5,deliver fast!!!
+John Das,user232@example.com,,Bangalore!!!,28-06-2022,Laptop,44017.24,8,deliver fast!!!
+Kiran Das,user355@example.com,6002509427,  Delhi  ,02-10-2022,Mobile,7773.55,4,ok!!!
+John Singh,,6258102652,Chennai!!!,13-06-2020,Tablet,1105.79,6,     
+Kiran Sharma,user414@example.com,7169169764,Chennai!!!,16-03-2021,Tablet,47772.94,6, !!!
+Meena Sharma,user444@example.com,7444901511,Chennai!!!,20-03-2023,Camera,5285.57,8,urgent!!!
+Meena Reddy,user390@example.com,9785429896,  Mumbai  ,26-07-2020,Laptop,10165.01,7,review!!!
+Raj Kumar,user329@example.com,9969840881,  Mumbai  ,24-04-2020,Laptop,43206.66,1,review!!!
+Anu Reddy,user201@example.com,8423407762,Bangalore!!!,22-06-2024,Mobile,46045.01,1,deliver fast!!!
+Meena Kumar,user46@example.com,8965356643,Bangalore!!!,16-11-2021,Laptop,46998.38,4,     
+John Das,user155@example.com,9486074132,  Hyderabad  ,18-06-2024,Headphones,35917.91,4,  deliver fast  
+Kiran Kumar,user125@example.com,7915155494,  Mumbai  ,07-11-2025,Camera,10004.72,8,  urgent  
+Meena Kumar,user285@example.com,7831327873,Delhi!!!,20-01-2025,Headphones,4977.54,8,deliver fast!!!
+John Kumar,user290@example.com,8870267632,Chennai!!!,07-02-2021,Mobile,6108.86,4,ok!!!
+Kiran Sharma,user201@example.com,7568936487,Hyderabad!!!,08-06-2022,Laptop,20518.03,6,deliver fast!!!
+Meena Reddy,user349@example.com,6624948661,Hyderabad!!!,19-07-2020,Mobile,33822.73,4,  urgent  
+John Singh,user17@example.com,8943500713,  Hyderabad  ,24-05-2021,Camera,32605.51,1,ok!!!
+Kiran Sharma,user477@example.com,9664881450,Mumbai!!!,21-06-2021,Headphones,33766.16,8,deliver fast!!!
+Meena Kumar,user286@example.com,8828559361,  Chennai  ,13-01-2025,Headphones,20989.96,7,ok!!!
+John Kumar,user419@example.com,9739794880,Delhi!!!,25-03-2024,Camera,38033.33,1,  review  
+Meena Kumar,user468@example.com,,  Delhi  ,18-05-2020,Tablet,29148.24,7,ok!!!
+Kiran Reddy,user137@example.com,7572393017,Mumbai!!!,07-07-2021,Headphones,22158.85,6,     
+John Sharma,user267@example.com,8713171941,Hyderabad!!!,16-10-2021,Mobile,31229.53,9,  review  
+Raj Sharma,user387@example.com,7906774134,Delhi!!!,05-07-2024,Tablet,29339.37,2,review!!!
+Raj Singh,user89@example.com,,Delhi!!!,27-11-2023,Headphones,23739.22,8,     
+Kiran Reddy,user456@example.com,6440634167,  Chennai  ,22-08-2021,Headphones,28865.09,5,urgent!!!
+Anu Kumar,user142@example.com,,  Chennai  ,20-09-2023,Headphones,39856.5,2,  review  
+Kiran Reddy,,7553713913,Mumbai!!!,20-08-2024,Camera,21105.23,1,deliver fast!!!
+Raj Singh,user31@example.com,,  Hyderabad  ,15-11-2025,Mobile,37543.2,3,deliver fast!!!
+Anu Das,user70@example.com,6184486927,  Bangalore  ,15-05-2023,Mobile,14575.67,10,ok!!!
+Raj Singh,user363@example.com,7356948486,Delhi!!!,21-01-2022,Headphones,7095.7,7,deliver fast!!!
+Kiran Reddy,user463@example.com,,Delhi!!!,16-05-2022,Mobile,8850.68,7,  ok  
+John Kumar,user329@example.com,,  Mumbai  ,02-10-2025,Camera,29319.02,9,  ok  
+Anu Sharma,,,  Chennai  ,08-11-2021,Headphones,14089.03,1,review!!!
+John Das,user310@example.com,,  Hyderabad  ,09-01-2023,Mobile,17060.68,8,urgent!!!
+Anu Reddy,user321@example.com,9604379847,Delhi!!!,10-07-2020,Laptop,19059.68,10,     
+Meena Singh,user216@example.com,,  Hyderabad  ,20-09-2020,Camera,24615.12,3,  ok  
+Kiran Singh,user320@example.com,,Hyderabad!!!,10-11-2021,Camera,41325.1,10,deliver fast!!!
+Kiran Das,,8689767220,  Delhi  ,26-09-2024,Laptop,47751.24,3,deliver fast!!!
+Kiran Kumar,user407@example.com,8103843643,Delhi!!!,15-05-2025,Camera,44103.32,1,  urgent  
+Anu Singh,user387@example.com,8543510992,Mumbai!!!,28-02-2023,Mobile,43905.05,9,     
+Anu Das,user45@example.com,7273019194,  Delhi  ,13-08-2025,Headphones,11479.02,1,  deliver fast  
+Anu Sharma,user203@example.com,6032958721,Chennai!!!,04-09-2020,Headphones,2462.13,10,  ok  
+Kiran Reddy,user242@example.com,9748786212,  Delhi  ,02-02-2024,Headphones,18840.61,9,     
+Kiran Singh,user307@example.com,8904226794,  Mumbai  ,10-01-2024,Headphones,48887.66,7, !!!
+John Reddy,user250@example.com,6363871820,Hyderabad!!!,07-09-2023,Headphones,2538.81,3,  urgent  
+Raj Reddy,user319@example.com,,Delhi!!!,02-10-2022,Headphones,29068.47,9,  review  
+Raj Das,user310@example.com,9829701067,Bangalore!!!,01-06-2025,Camera,40551.13,5,ok!!!
+Meena Singh,user29@example.com,9247499118,Mumbai!!!,07-09-2024,Camera,25678.34,2,  review  
+Raj Das,user153@example.com,,Mumbai!!!,27-09-2025,Mobile,13345.34,1,review!!!
+John Kumar,user480@example.com,9781252391,Hyderabad!!!,07-04-2023,Tablet,40830.94,6,  ok  
+Kiran Reddy,user1@example.com,6809286339,Hyderabad!!!,08-07-2024,Laptop,7932.32,3,  deliver fast  
+Anu Singh,user161@example.com,7919349832,  Mumbai  ,07-09-2024,Mobile,36720.24,3,ok!!!
+Meena Sharma,user440@example.com,6894644726,Hyderabad!!!,16-09-2025,Laptop,18413.98,9,     
+Raj Reddy,user449@example.com,,Chennai!!!,10-03-2020,Camera,29983.53,7,     
+John Kumar,user127@example.com,6589281950,  Bangalore  ,19-11-2021,Mobile,9414.85,4,review!!!
+Raj Singh,user218@example.com,6815674591,  Bangalore  ,16-11-2022,Tablet,44242.17,3,urgent!!!
+Kiran Singh,user71@example.com,7577305499,Delhi!!!,28-08-2024,Tablet,30682.97,2, !!!
+Kiran Reddy,user411@example.com,6807067302,  Mumbai  ,27-01-2025,Tablet,24181.4,2,review!!!
+Meena Das,,9994801761,  Delhi  ,01-04-2023,Camera,42023.13,8,  ok  
+Meena Sharma,user192@example.com,9893924741,Chennai!!!,19-07-2023,Laptop,31268.33,8,ok!!!
+Raj Kumar,user219@example.com,7936527198,Mumbai!!!,17-01-2023,Laptop,43071.07,3,ok!!!
+Kiran Sharma,user77@example.com,7035919081,Bangalore!!!,23-01-2022,Tablet,49804.05,3,review!!!
+Meena Reddy,user264@example.com,9528403455,Delhi!!!,21-08-2024,Camera,11755.06,3,  urgent  
+John Singh,user132@example.com,8456611978,Delhi!!!,01-11-2023,Laptop,38723.99,3,urgent!!!
+Raj Singh,user300@example.com,6612523370,  Bangalore  ,28-02-2020,Tablet,30948.22,2,  deliver fast  
+John Kumar,user142@example.com,9374515155,  Chennai  ,22-02-2025,Mobile,2445.2,5,urgent!!!
+Kiran Das,,8984693017,  Chennai  ,15-09-2020,Headphones,37642.48,10,review!!!
+John Das,user120@example.com,6350462238,  Bangalore  ,18-04-2022,Laptop,32974.91,9,  ok  
+Anu Das,user325@example.com,9256049342,Delhi!!!,23-05-2020,Laptop,30790.72,7,     
+Raj Singh,user147@example.com,6868647420,  Mumbai  ,12-12-2023,Headphones,26956.3,5,  urgent  
+Meena Reddy,user400@example.com,6935344407,  Chennai  ,08-03-2022,Tablet,45140.42,5,urgent!!!
+Raj Reddy,user293@example.com,9932413147,  Hyderabad  ,26-07-2023,Laptop,21973.06,8,  urgent  
+Raj Das,,6673248926,Hyderabad!!!,11-12-2024,Tablet,39251.64,9,  ok  
+Meena Sharma,user333@example.com,7704502509,Delhi!!!,25-08-2024,Mobile,43060.92,1,urgent!!!
+Meena Kumar,user122@example.com,6705485821,Hyderabad!!!,28-07-2023,Laptop,8076.32,9,urgent!!!
+Kiran Reddy,user341@example.com,8769410806,  Bangalore  ,08-04-2024,Headphones,47091.83,3,review!!!
+Anu Sharma,user45@example.com,9761929691,Mumbai!!!,01-11-2022,Laptop,5950.05,1, !!!
+Anu Singh,user249@example.com,6346750253,Mumbai!!!,03-04-2022,Mobile,3290.75,2,review!!!
+John Reddy,user183@example.com,9732145549,Chennai!!!,25-04-2022,Camera,12280.82,7, !!!
+Anu Sharma,user455@example.com,,  Hyderabad  ,05-01-2021,Tablet,27292.7,10,review!!!
+Raj Kumar,user16@example.com,9622668097,Delhi!!!,08-07-2023,Laptop,15276.18,7,urgent!!!
+Kiran Sharma,user158@example.com,8369568278,  Mumbai  ,05-10-2020,Camera,30875.83,9,deliver fast!!!
+Raj Kumar,user305@example.com,8375229551,  Delhi  ,10-10-2020,Camera,28389.45,9,  review  
+Anu Sharma,user64@example.com,6339863826,  Mumbai  ,18-11-2020,Headphones,10592.39,8,  ok  
+Kiran Kumar,,9235578669,  Delhi  ,18-03-2023,Laptop,20390.82,5,     
+John Sharma,user422@example.com,9010324995,  Mumbai  ,09-08-2021,Laptop,42735.1,10,  deliver fast  
+John Kumar,user100@example.com,8259526490,  Hyderabad  ,23-06-2022,Camera,34483.56,10,  ok  
+Raj Sharma,user74@example.com,9651407415,Hyderabad!!!,27-02-2021,Laptop,19136.98,5,  deliver fast  
+Anu Sharma,user356@example.com,6516612172,Mumbai!!!,20-02-2022,Mobile,4807.93,5,  urgent  
+Anu Reddy,user365@example.com,6476824244,  Chennai  ,05-01-2021,Camera,34347.25,1,  deliver fast  
+Raj Reddy,user167@example.com,6414772596,Mumbai!!!,02-09-2025,Camera,31345.73,7,  review  
+John Reddy,user375@example.com,7163090426,  Mumbai  ,24-12-2024,Laptop,45209.88,1,  review  
+Raj Reddy,,8859499151,Bangalore!!!,28-10-2022,Laptop,31876.69,10,urgent!!!
+Anu Singh,user285@example.com,6069740885,  Bangalore  ,01-11-2024,Mobile,3100.72,9,deliver fast!!!
+Kiran Reddy,user334@example.com,,Mumbai!!!,16-02-2022,Mobile,34761.5,10,  review  
+Anu Reddy,user300@example.com,6830182862,Chennai!!!,02-10-2023,Camera,44693.38,2,review!!!
+Raj Das,user218@example.com,6570962018,Bangalore!!!,19-07-2025,Mobile,25198.37,3,  ok  
+Kiran Kumar,user307@example.com,,Chennai!!!,28-04-2021,Tablet,27605.66,2,  review  
+Kiran Sharma,user384@example.com,8424254059,  Mumbai  ,14-01-2021,Camera,26315.53,5,     
+John Das,user125@example.com,9654168459,Hyderabad!!!,15-10-2021,Headphones,39030.84,2,deliver fast!!!
+Anu Das,user92@example.com,9293902530,  Bangalore  ,01-06-2021,Mobile,22041.89,7,     
+John Sharma,user411@example.com,6917758994,  Chennai  ,19-01-2025,Tablet,45909.54,10,urgent!!!
+Meena Sharma,user378@example.com,6154285364,Bangalore!!!,12-07-2021,Headphones,23357.62,3,  ok  
+John Kumar,user52@example.com,7477173820,  Chennai  ,17-03-2023,Camera,28531.73,2,  ok  
+Raj Kumar,user370@example.com,,  Chennai  ,07-03-2025,Tablet,36543.91,1, !!!
+Anu Sharma,user494@example.com,7350375208,Chennai!!!,05-07-2023,Laptop,47961.84,1,ok!!!
+Kiran Sharma,user234@example.com,,  Delhi  ,01-11-2023,Mobile,37817.22,8, !!!
+John Sharma,user257@example.com,8678312145,Hyderabad!!!,05-07-2025,Camera,14265.3,7,review!!!
+Raj Sharma,user475@example.com,9740896989,  Mumbai  ,12-05-2024,Camera,24357.82,3, !!!
+John Reddy,user196@example.com,,Delhi!!!,08-07-2024,Camera,36842.71,9,  review  
+Kiran Kumar,user431@example.com,7308696846,Bangalore!!!,22-06-2024,Headphones,44580.75,9,  deliver fast  
+Meena Singh,user322@example.com,7650527493,Delhi!!!,09-10-2020,Mobile,21144.91,7,  deliver fast  
+Anu Singh,user461@example.com,7238089024,Mumbai!!!,07-06-2023,Mobile,32058.35,9,  review  
+John Singh,user190@example.com,7436819677,Mumbai!!!,06-12-2021,Camera,5062.48,10,urgent!!!
+Raj Kumar,user465@example.com,,Delhi!!!,26-05-2024,Camera,20501.79,2,  deliver fast  
+Anu Reddy,user61@example.com,7369155695,Bangalore!!!,25-04-2023,Tablet,18561.18,3,urgent!!!
+Kiran Reddy,user136@example.com,7438346270,Bangalore!!!,12-03-2021,Camera,1368.04,3,  ok  
+Meena Das,user257@example.com,9553293984,Chennai!!!,08-04-2021,Mobile,28469.82,7,  deliver fast  
+Meena Das,user211@example.com,6352631812,  Delhi  ,17-12-2020,Headphones,16108.4,10,  ok  
+Anu Reddy,user367@example.com,,Bangalore!!!,01-05-2021,Camera,39899.64,5, !!!
+Kiran Singh,user481@example.com,9828374720,  Bangalore  ,19-10-2024,Headphones,24716.12,4,  review  
+Kiran Das,user322@example.com,9144063761,Mumbai!!!,25-06-2025,Tablet,27523.91,7, !!!
+John Reddy,user95@example.com,8107029631,Hyderabad!!!,21-12-2025,Laptop,5674.2,10,deliver fast!!!
+Meena Kumar,user114@example.com,9704139604,  Bangalore  ,07-12-2021,Mobile,32717.16,5,deliver fast!!!
+John Singh,user115@example.com,6057660360,Chennai!!!,05-09-2024,Tablet,34299.64,7,ok!!!
+Meena Sharma,user384@example.com,6675005146,Hyderabad!!!,25-12-2025,Headphones,43034.66,3, !!!
+John Sharma,,6136596263,  Mumbai  ,15-06-2021,Laptop,36107.77,1,  urgent  
+Meena Das,user207@example.com,,  Bangalore  ,01-05-2023,Tablet,26413.24,4,  ok  
+John Das,user393@example.com,,  Delhi  ,13-06-2024,Mobile,6338.48,3, !!!
+Meena Reddy,user438@example.com,7517826632,  Mumbai  ,05-03-2023,Headphones,28156.46,10,  urgent  
+John Kumar,user57@example.com,9503760412,Delhi!!!,09-09-2020,Camera,46419.43,9,  ok  
+Kiran Das,user127@example.com,,Delhi!!!,13-06-2022,Laptop,28528.37,5,     
+Meena Singh,user195@example.com,8607144331,  Bangalore  ,16-09-2024,Camera,47771.79,5,deliver fast!!!
+Kiran Sharma,user219@example.com,,  Mumbai  ,10-09-2020,Laptop,3079.18,9,review!!!
+Meena Das,user335@example.com,6011851900,  Bangalore  ,13-10-2023,Mobile,39859.77,6,deliver fast!!!
+Meena Reddy,,6574358238,  Delhi  ,20-03-2025,Headphones,43478.5,10, !!!
+Meena Reddy,user18@example.com,,  Delhi  ,11-01-2024,Mobile,8881.79,4,deliver fast!!!
+Kiran Sharma,user14@example.com,8678278730,  Bangalore  ,28-08-2024,Tablet,42670.7,7,urgent!!!
+Kiran Singh,user333@example.com,8735161730,  Chennai  ,22-07-2022,Laptop,13285.97,9,deliver fast!!!
+John Das,user467@example.com,,  Delhi  ,28-11-2020,Camera,31615.72,6,urgent!!!
+Kiran Sharma,user50@example.com,,  Mumbai  ,09-06-2023,Laptop,44925.09,10,urgent!!!
+Meena Sharma,user158@example.com,6903768973,  Mumbai  ,18-07-2023,Laptop,30551.33,1,urgent!!!
+Anu Sharma,user277@example.com,9716211474,  Delhi  ,15-01-2020,Mobile,16619.21,1, !!!
+Raj Singh,user11@example.com,,  Hyderabad  ,26-02-2020,Camera,26039.78,5,review!!!
+Meena Kumar,user374@example.com,8673399281,Hyderabad!!!,22-11-2020,Headphones,30296.6,10,  ok  
+John Das,user488@example.com,,  Delhi  ,25-07-2025,Camera,10305.79,8,  ok  
+Raj Singh,user265@example.com,,Bangalore!!!,23-09-2024,Headphones,26374.38,9,deliver fast!!!
+John Sharma,user23@example.com,6645033514,  Mumbai  ,18-01-2021,Camera,23999.51,3,  review  
+Meena Kumar,user156@example.com,6092375740,Chennai!!!,24-01-2023,Tablet,11964.28,6,ok!!!
+Anu Kumar,,,Chennai!!!,14-02-2023,Laptop,8937.54,6,  urgent  
+Meena Sharma,user275@example.com,6358490174,Bangalore!!!,12-07-2021,Headphones,10973.82,1,  ok  
+Kiran Das,,6530223872,  Delhi  ,10-12-2022,Camera,3896.35,10,  deliver fast  
+Meena Reddy,user53@example.com,9831883961,Mumbai!!!,03-11-2021,Mobile,8520.43,6,     
+Anu Reddy,user54@example.com,6263754874,  Chennai  ,08-03-2024,Headphones,2677.46,7,  deliver fast  
+Raj Das,user384@example.com,6563016599,  Mumbai  ,27-02-2021,Mobile,21880.11,9,deliver fast!!!
+John Singh,user1@example.com,7369136251,Bangalore!!!,20-11-2022,Mobile,9090.44,1,  urgent  
+John Das,user155@example.com,7966707139,Chennai!!!,09-08-2022,Laptop,18694.41,7, !!!
+Raj Sharma,,,  Chennai  ,04-09-2024,Tablet,34181.44,4,  deliver fast  
+Anu Kumar,user181@example.com,9052515298,Hyderabad!!!,14-12-2022,Camera,32877.47,8,  ok  
+Anu Reddy,user475@example.com,8564783008,  Hyderabad  ,18-09-2023,Headphones,25821.78,6,urgent!!!
+Meena Das,user208@example.com,8606134157,Bangalore!!!,13-04-2023,Headphones,31458.04,6,deliver fast!!!
+Kiran Sharma,user345@example.com,6241270941,Hyderabad!!!,24-03-2020,Tablet,14717.42,6,  urgent  
+John Singh,,,  Hyderabad  ,23-06-2024,Headphones,11231.83,7,ok!!!
+Meena Reddy,user182@example.com,6168405815,Bangalore!!!,24-12-2022,Camera,39001.48,4,  deliver fast  
+Anu Das,user374@example.com,7141325805,  Delhi  ,24-08-2023,Laptop,3598.6,9,     
+John Singh,user167@example.com,6189861724,Hyderabad!!!,21-06-2023,Tablet,25504.05,2,urgent!!!
+Anu Reddy,user402@example.com,7619129711,  Bangalore  ,02-03-2023,Tablet,18979.96,1, !!!
+Meena Reddy,user458@example.com,8057385956,Chennai!!!,19-07-2025,Camera,21088.16,6,urgent!!!
+Kiran Reddy,user498@example.com,9136944541,Delhi!!!,27-02-2021,Camera,28059.33,5,deliver fast!!!
+Anu Das,user250@example.com,8782468133,Bangalore!!!,16-07-2025,Laptop,37995.15,9,deliver fast!!!
+Meena Reddy,user175@example.com,,  Delhi  ,04-06-2020,Camera,44388.26,3,urgent!!!
+Meena Kumar,user274@example.com,8718068299,Chennai!!!,16-01-2022,Tablet,40745.29,8,  review  
+Raj Sharma,,9642098270,  Chennai  ,08-03-2025,Mobile,31163.29,6,     
+Meena Sharma,user170@example.com,8076388014,Mumbai!!!,12-08-2023,Laptop,16433.64,2,  deliver fast  
+Anu Singh,user239@example.com,8906298327,  Mumbai  ,13-08-2024,Laptop,9266.91,5,     
+Kiran Reddy,user327@example.com,,  Hyderabad  ,23-10-2020,Headphones,12331.88,1,  deliver fast  
+Raj Reddy,user112@example.com,6170830233,  Bangalore  ,24-07-2021,Mobile,46189.06,7,urgent!!!
+John Kumar,user37@example.com,8791740386,  Chennai  ,19-07-2023,Mobile,34864.95,4,     
+Meena Das,,9494935532,  Mumbai  ,04-11-2021,Tablet,27806.63,9,  deliver fast  
+Kiran Kumar,user19@example.com,7118190033,Chennai!!!,07-03-2022,Headphones,44250.46,9,urgent!!!
+Anu Das,user242@example.com,7128780743,Mumbai!!!,01-04-2024,Mobile,16472.16,5,  review  
+Anu Sharma,user464@example.com,7722169485,Delhi!!!,06-03-2022,Camera,2512.59,10,  ok  
+John Singh,user92@example.com,7758359924,Mumbai!!!,08-06-2025,Laptop,13966.03,7,urgent!!!
+Kiran Reddy,user212@example.com,9155287197,  Mumbai  ,14-12-2020,Camera,43179.28,6, !!!
+Anu Kumar,user38@example.com,9268513441,Chennai!!!,08-08-2022,Tablet,47368.24,2,deliver fast!!!
+John Kumar,user436@example.com,8800462041,Chennai!!!,01-04-2025,Camera,22609.84,10,  urgent  
+Anu Singh,user430@example.com,6174343598,  Delhi  ,16-08-2023,Tablet,6872.41,3,ok!!!
+Kiran Reddy,,7694694396,  Hyderabad  ,25-07-2021,Headphones,36092.61,5,ok!!!
+Anu Sharma,user327@example.com,,Delhi!!!,17-10-2020,Headphones,7013.55,7,  deliver fast  
+Kiran Reddy,user24@example.com,8160845273,  Delhi  ,25-04-2020,Mobile,1015.32,5,deliver fast!!!
+Kiran Kumar,user316@example.com,7598664844,Delhi!!!,09-03-2023,Mobile,21659.3,9,deliver fast!!!
+Raj Kumar,user109@example.com,9233440688,  Chennai  ,27-07-2023,Headphones,39781.14,4,  ok  
+Anu Das,user274@example.com,7478486862,Delhi!!!,23-09-2020,Laptop,44105.5,2,review!!!
+Anu Das,user311@example.com,6677410187,Mumbai!!!,12-10-2024,Camera,22297.42,2, !!!
+Anu Das,user368@example.com,7199426186,  Chennai  ,12-08-2021,Laptop,26911.96,9,review!!!
+Kiran Kumar,,7393379549,  Mumbai  ,22-04-2022,Headphones,45751.33,8, !!!
+Meena Reddy,user14@example.com,6050801784,Hyderabad!!!,04-04-2024,Headphones,48614.99,4,urgent!!!
+Meena Reddy,user26@example.com,7612921652,  Chennai  ,08-08-2023,Mobile,2951.97,8,  ok  
+Kiran Das,user218@example.com,8670111362,Delhi!!!,06-04-2020,Tablet,41058.63,7,review!!!
+Anu Reddy,user415@example.com,6690574306,Chennai!!!,09-04-2023,Tablet,41813.9,1,     
+Meena Kumar,user211@example.com,6444928675,  Delhi  ,21-06-2022,Camera,33113.72,9,deliver fast!!!
+John Kumar,user490@example.com,6138011386,Delhi!!!,10-10-2020,Tablet,19715.76,4,urgent!!!
+Anu Singh,user205@example.com,,  Chennai  ,20-08-2020,Camera,19670.42,10,review!!!
+Anu Kumar,user466@example.com,9760758190,Delhi!!!,25-07-2025,Headphones,12405.34,5,deliver fast!!!
+John Kumar,user145@example.com,8418606581,Chennai!!!,22-08-2024,Headphones,30506.3,7, !!!
+Anu Das,user342@example.com,9937528913,Bangalore!!!,24-11-2023,Laptop,24729.69,4,  urgent  
+Raj Kumar,user224@example.com,6579942417,Delhi!!!,23-07-2020,Camera,7089.9,9,     
+Kiran Kumar,user305@example.com,6857680375,Delhi!!!,16-03-2024,Tablet,33147.45,5,review!!!
+Raj Sharma,user112@example.com,7152509931,  Delhi  ,09-05-2024,Headphones,16762.47,4,  urgent  
+Meena Sharma,user271@example.com,8060641738,Hyderabad!!!,08-12-2022,Tablet,29791.93,7, !!!
+Raj Sharma,user264@example.com,9434506659,  Bangalore  ,10-09-2024,Tablet,27769.39,9, !!!
+Kiran Sharma,user6@example.com,6667315142,Delhi!!!,09-09-2023,Laptop,13867.3,7,review!!!
+Anu Sharma,user145@example.com,,Bangalore!!!,28-05-2024,Camera,39333.85,3,  urgent  
+Anu Reddy,user232@example.com,,Hyderabad!!!,02-05-2025,Tablet,5635.02,3,     
+Raj Singh,user80@example.com,9301017613,  Mumbai  ,06-08-2020,Tablet,48102.24,4,deliver fast!!!
+Meena Singh,user176@example.com,9467052899,Bangalore!!!,26-06-2022,Headphones,9855.57,2,review!!!
+Anu Sharma,user402@example.com,6955196414,  Chennai  ,06-07-2024,Laptop,31828.61,5,deliver fast!!!
+John Singh,user173@example.com,,  Delhi  ,05-10-2022,Tablet,34652.97,3,  ok  
+Kiran Reddy,user447@example.com,,  Hyderabad  ,20-09-2024,Laptop,5528.62,6,     
+Anu Reddy,user176@example.com,,Mumbai!!!,03-12-2022,Laptop,37889.82,1,ok!!!
+John Das,user157@example.com,8329515295,Delhi!!!,23-02-2020,Laptop,30446.44,1,deliver fast!!!
+Meena Sharma,user301@example.com,8756411795,Chennai!!!,01-02-2022,Headphones,16767.75,1,  review  
+Raj Das,user365@example.com,9101382844,  Mumbai  ,06-12-2025,Camera,37723.5,6,     
+Raj Reddy,,,  Chennai  ,17-12-2021,Headphones,25121.58,8,  ok  
+Kiran Das,user393@example.com,6854319368,Delhi!!!,28-10-2023,Headphones,14392.88,7,  ok  
+John Reddy,user306@example.com,6912428710,  Delhi  ,15-06-2022,Headphones,36122.67,8,review!!!
+Meena Kumar,user450@example.com,,  Chennai  ,27-07-2022,Mobile,21411.66,8,  urgent  
+Raj Sharma,,6305486213,Mumbai!!!,27-05-2020,Camera,12166.46,9, !!!
+Kiran Sharma,user124@example.com,8276819628,Mumbai!!!,15-05-2022,Tablet,29158.48,3, !!!
+John Singh,user426@example.com,,  Hyderabad  ,07-05-2022,Tablet,38815.69,2, !!!
+Anu Das,,8036149478,Chennai!!!,24-12-2024,Mobile,10103.11,10,  deliver fast  
+Meena Das,user164@example.com,7906016211,Hyderabad!!!,18-09-2023,Tablet,41373.78,3,urgent!!!
+Kiran Kumar,user236@example.com,9188775859,  Bangalore  ,15-05-2022,Camera,27317.33,5, !!!
+John Reddy,user169@example.com,9312489847,Chennai!!!,17-07-2020,Tablet,41792.58,6,     
+Raj Singh,user356@example.com,,Bangalore!!!,26-11-2023,Laptop,47353.69,10,  urgent  
+Anu Singh,user411@example.com,7018560357,  Hyderabad  ,14-03-2025,Camera,23657.67,4,  ok  
+Kiran Singh,user441@example.com,7475823263,Bangalore!!!,18-05-2023,Tablet,6129.37,6,  deliver fast  
+Kiran Das,user358@example.com,7708318047,Chennai!!!,25-05-2025,Laptop,38896.02,3,review!!!
+Meena Singh,user404@example.com,8562426836,  Mumbai  ,14-12-2023,Tablet,24020.89,6,  ok  
+Kiran Sharma,user310@example.com,9558283328,Chennai!!!,04-07-2024,Camera,33664.03,6,  urgent  
+Raj Singh,user330@example.com,8790222260,  Bangalore  ,13-08-2025,Headphones,46115.1,10,  ok  
+John Singh,user491@example.com,6208338002,  Hyderabad  ,12-10-2024,Tablet,23828.85,4,ok!!!
+John Kumar,user247@example.com,7587181300,  Mumbai  ,01-08-2020,Laptop,2201.91,2,ok!!!
+Kiran Singh,user386@example.com,8782610242,Mumbai!!!,01-11-2023,Laptop,2597.37,1,  ok  
+Kiran Reddy,user257@example.com,7775472914,  Delhi  ,26-11-2021,Headphones,41939.52,3,     
+John Reddy,user96@example.com,9825235018,  Bangalore  ,16-03-2022,Mobile,15954.45,1,ok!!!
+Meena Singh,,7563483796,  Chennai  ,03-03-2025,Camera,26507.59,4,  urgent  
+Meena Sharma,,6307464731,  Chennai  ,09-10-2024,Mobile,43104.57,10,deliver fast!!!
+Kiran Singh,user374@example.com,9141747955,  Mumbai  ,02-07-2023,Camera,25775.87,4,deliver fast!!!
+Raj Kumar,user370@example.com,9963899141,  Bangalore  ,22-08-2021,Laptop,16589.28,7, !!!
+Kiran Das,user352@example.com,7148920857,Mumbai!!!,03-08-2020,Tablet,39321.03,6,     
+Anu Sharma,user281@example.com,9880874754,Delhi!!!,11-10-2020,Camera,11812.34,3,  ok  
+Kiran Das,user479@example.com,,Chennai!!!,23-01-2024,Mobile,34113.97,8,urgent!!!
+John Singh,user426@example.com,7705927261,Mumbai!!!,14-09-2022,Mobile,42244.93,3,     
+Meena Singh,user115@example.com,7739433321,  Chennai  ,01-07-2020,Camera,47612.34,4,deliver fast!!!
+Raj Kumar,user483@example.com,8038590435,Mumbai!!!,27-10-2023,Headphones,20418.56,10,review!!!
+Raj Sharma,user14@example.com,,Bangalore!!!,02-10-2024,Headphones,5623.65,3,  ok  
+Kiran Das,user69@example.com,,  Delhi  ,16-08-2021,Camera,39913,10,deliver fast!!!
+Meena Kumar,user403@example.com,6442136234,Hyderabad!!!,21-01-2023,Camera,13352.88,2,deliver fast!!!
+John Reddy,user309@example.com,7789188673,Chennai!!!,01-03-2025,Camera,2872.45,2,  review  
+Raj Reddy,user254@example.com,9174417897,Mumbai!!!,03-08-2023,Mobile,41976.91,2,review!!!
+Kiran Reddy,user236@example.com,6914273285,  Chennai  ,07-04-2023,Mobile,9647.9,10, !!!
+John Singh,user135@example.com,7584878097,Bangalore!!!,13-02-2022,Tablet,4715.6,10,  deliver fast  
+Raj Singh,user277@example.com,9867781906,  Bangalore  ,18-12-2020,Camera,41792.12,9,ok!!!
+John Singh,user355@example.com,9455567406,  Bangalore  ,16-06-2021,Headphones,4834.77,9,deliver fast!!!
+Anu Kumar,user77@example.com,6738644660,Bangalore!!!,26-04-2025,Headphones,26447.74,4,     
+Raj Singh,user356@example.com,8640634187,  Delhi  ,28-04-2022,Laptop,19265.64,3,     
+Anu Sharma,user471@example.com,9934401836,Chennai!!!,07-12-2024,Tablet,42333.77,4,  urgent  
+Kiran Kumar,user91@example.com,8659277469,  Chennai  ,22-12-2023,Mobile,38875.62,7,     
+John Reddy,user150@example.com,7302603036,Chennai!!!,10-10-2020,Camera,29408.15,9,  deliver fast  
+John Reddy,user258@example.com,8047001447,Mumbai!!!,06-03-2020,Camera,22422.84,3,review!!!
+John Reddy,user101@example.com,8138760033,  Chennai  ,27-03-2024,Mobile,39711.04,5,deliver fast!!!
+John Das,user460@example.com,,Chennai!!!,14-10-2024,Tablet,16961.21,2,  review  
+Meena Reddy,user497@example.com,,Chennai!!!,25-12-2021,Mobile,29130.06,6,     
+John Das,user249@example.com,7195861218,Delhi!!!,01-07-2022,Laptop,38153.51,5,  review  
